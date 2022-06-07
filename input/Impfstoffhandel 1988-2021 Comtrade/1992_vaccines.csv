@@ -1,0 +1,1349 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+H0,1992,1992,1992,6,1,1,Import,12,Algeria,DZA,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,63581,63581,3926176,0
+H0,1992,1992,1992,6,1,1,Import,12,Algeria,DZA,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,28995,28995,1541562,0
+H0,1992,1992,1992,6,1,1,Import,12,Algeria,DZA,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,28787,28787,1708431,0
+H0,1992,1992,1992,6,1,1,Import,12,Algeria,DZA,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,5684,5684,675301,0
+H0,1992,1992,1992,6,1,1,Import,12,Algeria,DZA,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,115,115,882,0
+H0,1992,1992,1992,6,1,1,Import,36,Australia,AUS,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,11514123,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,48865,48865,9513493,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,39969,39969,7978563,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,50,Bangladesh,BGD,300220,"Vaccines, human use",8,Weight in kilograms,15,15,3631,0
+H0,1992,1992,1992,6,1,1,Import,36,Australia,AUS,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,2216893,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,96,Brunei Darussalam,BRN,300220,"Vaccines, human use",8,Weight in kilograms,4,4,583,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,116,Cambodia,KHM,300220,"Vaccines, human use",8,Weight in kilograms,386,386,122552,0
+H0,1992,1992,1992,6,1,1,Import,36,Australia,AUS,124,Canada,CAN,300220,"Vaccines, human use",1,No Quantity,0,0,38247,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,25,25,2505,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,144,Sri Lanka,LKA,300220,"Vaccines, human use",8,Weight in kilograms,1,1,880,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,156,China,CHN,300220,"Vaccines, human use",8,Weight in kilograms,618,618,200698,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,156,China,CHN,300220,"Vaccines, human use",8,Weight in kilograms,618,618,200698,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,242,Fiji,FJI,300220,"Vaccines, human use",8,Weight in kilograms,487,487,49972,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,242,Fiji,FJI,300220,"Vaccines, human use",8,Weight in kilograms,414,414,37100,0
+H0,1992,1992,1992,6,1,1,Import,36,Australia,AUS,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,1568791,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,10,10,315254,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,288,Ghana,GHA,300220,"Vaccines, human use",8,Weight in kilograms,1940,1940,132433,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,328,Guyana,GUY,300220,"Vaccines, human use",8,Weight in kilograms,46,46,2566,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",8,Weight in kilograms,6765,6765,3501931,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",8,Weight in kilograms,6330,6330,3483594,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,348,Hungary,HUN,300220,"Vaccines, human use",8,Weight in kilograms,520,520,240996,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,360,Indonesia,IDN,300220,"Vaccines, human use",8,Weight in kilograms,2361,2361,561124,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,360,Indonesia,IDN,300220,"Vaccines, human use",8,Weight in kilograms,2282,2282,499334,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,376,Israel,ISR,300220,"Vaccines, human use",8,Weight in kilograms,65,65,6968,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,22,22,13045,0
+H0,1992,1992,1992,6,1,1,Import,36,Australia,AUS,392,Japan,JPN,300220,"Vaccines, human use",1,No Quantity,0,0,15335,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,835,835,81236,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,410,Rep. of Korea,KOR,300220,"Vaccines, human use",8,Weight in kilograms,56,56,115929,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,410,Rep. of Korea,KOR,300220,"Vaccines, human use",8,Weight in kilograms,53,53,115024,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,414,Kuwait,KWT,300220,"Vaccines, human use",8,Weight in kilograms,110,110,12407,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,458,Malaysia,MYS,300220,"Vaccines, human use",8,Weight in kilograms,2346,2346,385120,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,458,Malaysia,MYS,300220,"Vaccines, human use",8,Weight in kilograms,2346,2346,385120,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,480,Mauritius,MUS,300220,"Vaccines, human use",8,Weight in kilograms,1,1,1687,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,490,"Other Asia, nes","",300220,"Vaccines, human use",8,Weight in kilograms,2605,2605,232552,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,490,"Other Asia, nes","",300220,"Vaccines, human use",8,Weight in kilograms,2605,2605,232552,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,1,1,5758,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,554,New Zealand,NZL,300220,"Vaccines, human use",8,Weight in kilograms,3423,3423,403822,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,554,New Zealand,NZL,300220,"Vaccines, human use",8,Weight in kilograms,1051,1051,136839,0
+H0,1992,1992,1992,6,1,1,Import,36,Australia,AUS,579,Norway,NOR,300220,"Vaccines, human use",1,No Quantity,0,0,82312,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,583,FS Micronesia,FSM,300220,"Vaccines, human use",8,Weight in kilograms,73,73,7487,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,583,FS Micronesia,FSM,300220,"Vaccines, human use",8,Weight in kilograms,73,73,7487,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,585,Palau,PLW,300220,"Vaccines, human use",8,Weight in kilograms,43,43,4729,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,585,Palau,PLW,300220,"Vaccines, human use",8,Weight in kilograms,43,43,4729,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,598,Papua New Guinea,PNG,300220,"Vaccines, human use",8,Weight in kilograms,606,606,140187,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,608,Philippines,PHL,300220,"Vaccines, human use",8,Weight in kilograms,4415,4415,505363,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,608,Philippines,PHL,300220,"Vaccines, human use",8,Weight in kilograms,4415,4415,505363,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,702,Singapore,SGP,300220,"Vaccines, human use",8,Weight in kilograms,11318,11318,1439178,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,702,Singapore,SGP,300220,"Vaccines, human use",8,Weight in kilograms,10471,10471,1390023,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,1,1,1021,0
+H0,1992,1992,1992,6,1,1,Import,36,Australia,AUS,757,Switzerland,CHE,300220,"Vaccines, human use",1,No Quantity,0,0,154922,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,764,Thailand,THA,300220,"Vaccines, human use",8,Weight in kilograms,9108,9108,946461,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,764,Thailand,THA,300220,"Vaccines, human use",8,Weight in kilograms,9105,9105,945715,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,776,Tonga,TON,300220,"Vaccines, human use",8,Weight in kilograms,95,95,2026,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,776,Tonga,TON,300220,"Vaccines, human use",8,Weight in kilograms,95,95,2026,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,780,Trinidad and Tobago,TTO,300220,"Vaccines, human use",8,Weight in kilograms,267,267,9407,0
+H0,1992,1992,1992,6,1,1,Import,36,Australia,AUS,826,United Kingdom,GBR,300220,"Vaccines, human use",1,No Quantity,0,0,167301,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,21,21,28887,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,15,15,27703,0
+H0,1992,1992,1992,6,1,1,Import,36,Australia,AUS,842,USA,USA,300220,"Vaccines, human use",1,No Quantity,0,0,7269823,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,206,206,25634,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,849,US Misc. Pacific Isds,"",300220,"Vaccines, human use",8,Weight in kilograms,53,53,5256,0
+H0,1992,1992,1992,6,1,3,Re-Export,36,Australia,AUS,849,US Misc. Pacific Isds,"",300220,"Vaccines, human use",8,Weight in kilograms,53,53,5256,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",8,Weight in kilograms,10,10,3409,0
+H0,1992,1992,1992,6,1,1,Import,36,Australia,AUS,899,"Areas, nes","",300220,"Vaccines, human use",1,No Quantity,0,0,499,0
+H0,1992,1992,1992,6,1,2,Export,36,Australia,AUS,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,7,7,799,0
+H0,1992,1992,1992,6,1,1,Import,50,Bangladesh,BGD,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,23945,23945,1164788,0
+H0,1992,1992,1992,6,1,1,Import,50,Bangladesh,BGD,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,380,380,9657,0
+H0,1992,1992,1992,6,1,1,Import,50,Bangladesh,BGD,100,Bulgaria,BGR,300220,"Vaccines, human use",8,Weight in kilograms,2085,2085,98133,0
+H0,1992,1992,1992,6,1,1,Import,50,Bangladesh,BGD,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,2559,2559,139259,0
+H0,1992,1992,1992,6,1,1,Import,50,Bangladesh,BGD,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,3508,3508,146028,0
+H0,1992,1992,1992,6,1,1,Import,50,Bangladesh,BGD,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",8,Weight in kilograms,170,170,10855,0
+H0,1992,1992,1992,6,1,1,Import,50,Bangladesh,BGD,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,1610,1610,97405,0
+H0,1992,1992,1992,6,1,1,Import,50,Bangladesh,BGD,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,9491,9491,458878,0
+H0,1992,1992,1992,6,1,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,300220,"Vaccines, human use",8,Weight in kilograms,1020,1020,48996,0
+H0,1992,1992,1992,6,1,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,3122,3122,155577,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,56918,56918,1042345,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,32,Argentina,ARG,300220,"Vaccines, human use",8,Weight in kilograms,765,765,5602,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,1105,1105,62583,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,300220,"Vaccines, human use",8,Weight in kilograms,126,126,1159,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,88,88,7323,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,300220,"Vaccines, human use",8,Weight in kilograms,728,728,2718,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,1110,1110,84324,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,479,479,18889,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,226,226,4937,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,2286,2286,46742,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,226,226,37845,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,48700,48700,766980,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,858,Uruguay,URY,300220,"Vaccines, human use",8,Weight in kilograms,905,905,2474,0
+H0,1992,1992,1992,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,174,174,769,0
+H0,1992,1992,1992,6,1,1,Import,76,Brazil,BRA,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,200658,200658,33792620,0
+H0,1992,1992,1992,6,1,2,Export,76,Brazil,BRA,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,9,9,2698,0
+H0,1992,1992,1992,6,1,2,Export,76,Brazil,BRA,24,Angola,AGO,300220,"Vaccines, human use",8,Weight in kilograms,9,9,2698,0
+H0,1992,1992,1992,6,1,1,Import,76,Brazil,BRA,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,20310,20310,7788613,0
+H0,1992,1992,1992,6,1,1,Import,76,Brazil,BRA,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,15237,15237,1332480,0
+H0,1992,1992,1992,6,1,1,Import,76,Brazil,BRA,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,142495,142495,22154536,0
+H0,1992,1992,1992,6,1,1,Import,76,Brazil,BRA,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,1,1,39852,0
+H0,1992,1992,1992,6,1,1,Import,76,Brazil,BRA,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,22512,22512,2324979,0
+H0,1992,1992,1992,6,1,1,Import,76,Brazil,BRA,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,102,102,151988,0
+H0,1992,1992,1992,6,1,1,Import,76,Brazil,BRA,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,1,1,173,0
+H0,1992,1992,1992,6,1,1,Import,84,Belize,BLZ,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,42,42,3822,0
+H0,1992,1992,1992,6,1,1,Import,84,Belize,BLZ,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,1,1,691,0
+H0,1992,1992,1992,6,1,1,Import,84,Belize,BLZ,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,6,6,965,0
+H0,1992,1992,1992,6,1,1,Import,84,Belize,BLZ,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,32,32,1772,0
+H0,1992,1992,1992,6,1,1,Import,84,Belize,BLZ,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,3,3,394,0
+H0,1992,1992,1992,6,1,1,Import,104,Myanmar,MMR,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,34264,0
+H0,1992,1992,1992,6,1,1,Import,104,Myanmar,MMR,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,6701,0
+H0,1992,1992,1992,6,1,1,Import,104,Myanmar,MMR,842,USA,USA,300220,"Vaccines, human use",1,No Quantity,0,0,27327,0
+H0,1992,1992,1992,6,1,1,Import,104,Myanmar,MMR,899,"Areas, nes","",300220,"Vaccines, human use",1,No Quantity,0,0,236,0
+H0,1992,1992,1992,6,1,1,Import,124,Canada,CAN,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,39539576,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,29145992,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,32,Argentina,ARG,300220,"Vaccines, human use",1,No Quantity,0,0,195647,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,36,Australia,AUS,300220,"Vaccines, human use",1,No Quantity,0,0,40917,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,40,Austria,AUT,300220,"Vaccines, human use",1,No Quantity,0,0,1437298,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,44,Bahamas,BHS,300220,"Vaccines, human use",1,No Quantity,0,0,2452,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,48,Bahrain,BHR,300220,"Vaccines, human use",1,No Quantity,0,0,215623,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,50,Bangladesh,BGD,300220,"Vaccines, human use",1,No Quantity,0,0,68443,0
+H0,1992,1992,1992,6,1,1,Import,124,Canada,CAN,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,3439846,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,164457,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,60,Bermuda,BMU,300220,"Vaccines, human use",1,No Quantity,0,0,8437,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,300220,"Vaccines, human use",1,No Quantity,0,0,67157,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,76,Brazil,BRA,300220,"Vaccines, human use",1,No Quantity,0,0,1307955,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,100,Bulgaria,BGR,300220,"Vaccines, human use",1,No Quantity,0,0,16675,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,108,Burundi,BDI,300220,"Vaccines, human use",1,No Quantity,0,0,20241,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,120,Cameroon,CMR,300220,"Vaccines, human use",1,No Quantity,0,0,20159,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,144,Sri Lanka,LKA,300220,"Vaccines, human use",1,No Quantity,0,0,27792,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,148,Chad,TCD,300220,"Vaccines, human use",1,No Quantity,0,0,7093,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,170,Colombia,COL,300220,"Vaccines, human use",1,No Quantity,0,0,2542,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,208,Denmark,DNK,300220,"Vaccines, human use",1,No Quantity,0,0,138800,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,214,Dominican Rep.,DOM,300220,"Vaccines, human use",1,No Quantity,0,0,36150,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,222,El Salvador,SLV,300220,"Vaccines, human use",1,No Quantity,0,0,120199,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,230,Fmr Ethiopia,ETH,300220,"Vaccines, human use",1,No Quantity,0,0,115068,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,246,Finland,FIN,300220,"Vaccines, human use",1,No Quantity,0,0,9042,0
+H0,1992,1992,1992,6,1,1,Import,124,Canada,CAN,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,4779453,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,1038770,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,276,Germany,DEU,300220,"Vaccines, human use",1,No Quantity,0,0,17093840,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,288,Ghana,GHA,300220,"Vaccines, human use",1,No Quantity,0,0,22773,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,300,Greece,GRC,300220,"Vaccines, human use",1,No Quantity,0,0,16347,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,324,Guinea,GIN,300220,"Vaccines, human use",1,No Quantity,0,0,64336,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,332,Haiti,HTI,300220,"Vaccines, human use",1,No Quantity,0,0,71955,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,364,Iran,IRN,300220,"Vaccines, human use",1,No Quantity,0,0,72694,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,372,Ireland,IRL,300220,"Vaccines, human use",1,No Quantity,0,0,16078,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,376,Israel,ISR,300220,"Vaccines, human use",1,No Quantity,0,0,36424,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,381,Italy,ITA,300220,"Vaccines, human use",1,No Quantity,0,0,7114,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,388,Jamaica,JAM,300220,"Vaccines, human use",1,No Quantity,0,0,4461,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,392,Japan,JPN,300220,"Vaccines, human use",1,No Quantity,0,0,6181,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,400,Jordan,JOR,300220,"Vaccines, human use",1,No Quantity,0,0,11199,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,404,Kenya,KEN,300220,"Vaccines, human use",1,No Quantity,0,0,69439,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,410,Rep. of Korea,KOR,300220,"Vaccines, human use",1,No Quantity,0,0,407997,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,414,Kuwait,KWT,300220,"Vaccines, human use",1,No Quantity,0,0,5181,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,422,Lebanon,LBN,300220,"Vaccines, human use",1,No Quantity,0,0,16803,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,454,Malawi,MWI,300220,"Vaccines, human use",1,No Quantity,0,0,115233,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,458,Malaysia,MYS,300220,"Vaccines, human use",1,No Quantity,0,0,14471,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,466,Mali,MLI,300220,"Vaccines, human use",1,No Quantity,0,0,8462,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,474,Martinique,MTQ,300220,"Vaccines, human use",1,No Quantity,0,0,12693,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,484,Mexico,MEX,300220,"Vaccines, human use",1,No Quantity,0,0,33462,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,504,Morocco,MAR,300220,"Vaccines, human use",1,No Quantity,0,0,21155,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,508,Mozambique,MOZ,300220,"Vaccines, human use",1,No Quantity,0,0,8462,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,512,Oman,OMN,300220,"Vaccines, human use",1,No Quantity,0,0,60724,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,524,Nepal,NPL,300220,"Vaccines, human use",1,No Quantity,0,0,66311,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,528,Netherlands,NLD,300220,"Vaccines, human use",1,No Quantity,0,0,279065,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,554,New Zealand,NZL,300220,"Vaccines, human use",1,No Quantity,0,0,26696,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,558,Nicaragua,NIC,300220,"Vaccines, human use",1,No Quantity,0,0,26132,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,562,Niger,NER,300220,"Vaccines, human use",1,No Quantity,0,0,31990,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,566,Nigeria,NGA,300220,"Vaccines, human use",1,No Quantity,0,0,202594,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,579,Norway,NOR,300220,"Vaccines, human use",1,No Quantity,0,0,87858,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,586,Pakistan,PAK,300220,"Vaccines, human use",1,No Quantity,0,0,787132,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,591,Panama,PAN,300220,"Vaccines, human use",1,No Quantity,0,0,8212,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,604,Peru,PER,300220,"Vaccines, human use",1,No Quantity,0,0,194035,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,608,Philippines,PHL,300220,"Vaccines, human use",1,No Quantity,0,0,403098,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,616,Poland,POL,300220,"Vaccines, human use",1,No Quantity,0,0,11818,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,620,Portugal,PRT,300220,"Vaccines, human use",1,No Quantity,0,0,12396,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,624,Guinea-Bissau,GNB,300220,"Vaccines, human use",1,No Quantity,0,0,33104,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,643,Russian Federation,RUS,300220,"Vaccines, human use",1,No Quantity,0,0,14821,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,646,Rwanda,RWA,300220,"Vaccines, human use",1,No Quantity,0,0,28372,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,682,Saudi Arabia,SAU,300220,"Vaccines, human use",1,No Quantity,0,0,14376,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,686,Senegal,SEN,300220,"Vaccines, human use",1,No Quantity,0,0,67910,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,702,Singapore,SGP,300220,"Vaccines, human use",1,No Quantity,0,0,15703,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,704,Viet Nam,VNM,300220,"Vaccines, human use",1,No Quantity,0,0,27792,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,711,So. African Customs Union,ZAF,300220,"Vaccines, human use",1,No Quantity,0,0,26050,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,724,Spain,ESP,300220,"Vaccines, human use",1,No Quantity,0,0,810113,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,752,Sweden,SWE,300220,"Vaccines, human use",1,No Quantity,0,0,284851,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,757,Switzerland,CHE,300220,"Vaccines, human use",1,No Quantity,0,0,155802,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,760,Syria,SYR,300220,"Vaccines, human use",1,No Quantity,0,0,78041,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,764,Thailand,THA,300220,"Vaccines, human use",1,No Quantity,0,0,272468,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,780,Trinidad and Tobago,TTO,300220,"Vaccines, human use",1,No Quantity,0,0,3069,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,792,Turkey,TUR,300220,"Vaccines, human use",1,No Quantity,0,0,209109,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,818,Egypt,EGY,300220,"Vaccines, human use",1,No Quantity,0,0,38909,0
+H0,1992,1992,1992,6,1,1,Import,124,Canada,CAN,826,United Kingdom,GBR,300220,"Vaccines, human use",1,No Quantity,0,0,333391,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,826,United Kingdom,GBR,300220,"Vaccines, human use",1,No Quantity,0,0,356632,0
+H0,1992,1992,1992,6,1,1,Import,124,Canada,CAN,842,USA,USA,300220,"Vaccines, human use",1,No Quantity,0,0,30986888,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,842,USA,USA,300220,"Vaccines, human use",1,No Quantity,0,0,1238474,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,862,Venezuela,VEN,300220,"Vaccines, human use",1,No Quantity,0,0,63930,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,887,Yemen,YEM,300220,"Vaccines, human use",1,No Quantity,0,0,2266,0
+H0,1992,1992,1992,6,1,2,Export,124,Canada,CAN,894,Zambia,ZMB,300220,"Vaccines, human use",1,No Quantity,0,0,8462,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,17265,17265,1121758,0
+H0,1992,1992,1992,6,1,2,Export,144,Sri Lanka,LKA,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,150,150,1617,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,1200,1200,37144,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,2717,2717,287295,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,4319,4319,385259,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,1781,1781,72751,0
+H0,1992,1992,1992,6,1,2,Export,144,Sri Lanka,LKA,462,Maldives,MDV,300220,"Vaccines, human use",8,Weight in kilograms,150,150,1617,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,2645,2645,152055,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,699,India,IND,300220,"Vaccines, human use",8,Weight in kilograms,2189,2189,113194,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,373,373,9643,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,1562,1562,39258,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,29,29,2320,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",8,Weight in kilograms,442,442,22761,0
+H0,1992,1992,1992,6,1,1,Import,144,Sri Lanka,LKA,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,8,8,78,0
+H0,1992,1992,1992,6,1,1,Import,152,Chile,CHL,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,19318,19318,1328118,0
+H0,1992,1992,1992,6,1,2,Export,152,Chile,CHL,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,667,667,24240,0
+H0,1992,1992,1992,6,1,1,Import,152,Chile,CHL,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,811,811,99188,0
+H0,1992,1992,1992,6,1,2,Export,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,300220,"Vaccines, human use",8,Weight in kilograms,40,40,4979,0
+H0,1992,1992,1992,6,1,1,Import,152,Chile,CHL,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,16727,16727,986058,0
+H0,1992,1992,1992,6,1,1,Import,152,Chile,CHL,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,1,1,5263,0
+H0,1992,1992,1992,6,1,1,Import,152,Chile,CHL,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,482,482,79130,0
+H0,1992,1992,1992,6,1,2,Export,152,Chile,CHL,600,Paraguay,PRY,300220,"Vaccines, human use",8,Weight in kilograms,217,217,17761,0
+H0,1992,1992,1992,6,1,2,Export,152,Chile,CHL,604,Peru,PER,300220,"Vaccines, human use",8,Weight in kilograms,410,410,1500,0
+H0,1992,1992,1992,6,1,1,Import,152,Chile,CHL,724,Spain,ESP,300220,"Vaccines, human use",8,Weight in kilograms,267,267,10646,0
+H0,1992,1992,1992,6,1,1,Import,152,Chile,CHL,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,1027,1027,145022,0
+H0,1992,1992,1992,6,1,1,Import,152,Chile,CHL,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,2,2,2648,0
+H0,1992,1992,1992,6,1,1,Import,152,Chile,CHL,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,1,1,163,0
+H0,1992,1992,1992,6,1,1,Import,156,China,CHN,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,2335548,0
+H0,1992,1992,1992,6,1,2,Export,156,China,CHN,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,690250,0
+H0,1992,1992,1992,6,1,1,Import,156,China,CHN,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,624309,0
+H0,1992,1992,1992,6,1,1,Import,156,China,CHN,208,Denmark,DNK,300220,"Vaccines, human use",1,No Quantity,0,0,41003,0
+H0,1992,1992,1992,6,1,1,Import,156,China,CHN,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,1034697,0
+H0,1992,1992,1992,6,1,1,Import,156,China,CHN,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",1,No Quantity,0,0,13294,0
+H0,1992,1992,1992,6,1,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",1,No Quantity,0,0,142445,0
+H0,1992,1992,1992,6,1,1,Import,156,China,CHN,392,Japan,JPN,300220,"Vaccines, human use",1,No Quantity,0,0,16955,0
+H0,1992,1992,1992,6,1,2,Export,156,China,CHN,410,Rep. of Korea,KOR,300220,"Vaccines, human use",1,No Quantity,0,0,547805,0
+H0,1992,1992,1992,6,1,1,Import,156,China,CHN,528,Netherlands,NLD,300220,"Vaccines, human use",1,No Quantity,0,0,49807,0
+H0,1992,1992,1992,6,1,1,Import,156,China,CHN,616,Poland,POL,300220,"Vaccines, human use",1,No Quantity,0,0,23837,0
+H0,1992,1992,1992,6,1,1,Import,156,China,CHN,842,USA,USA,300220,"Vaccines, human use",1,No Quantity,0,0,531591,0
+H0,1992,1992,1992,6,1,1,Import,156,China,CHN,899,"Areas, nes","",300220,"Vaccines, human use",1,No Quantity,0,0,55,0
+H0,1992,1992,1992,6,1,1,Import,170,Colombia,COL,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,5277,5277,945120,0
+H0,1992,1992,1992,6,1,2,Export,170,Colombia,COL,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,220,220,17010,0
+H0,1992,1992,1992,6,1,1,Import,170,Colombia,COL,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,398,398,143031,0
+H0,1992,1992,1992,6,1,1,Import,170,Colombia,COL,192,Cuba,CUB,300220,"Vaccines, human use",8,Weight in kilograms,112,112,82908,0
+H0,1992,1992,1992,6,1,2,Export,170,Colombia,COL,218,Ecuador,ECU,300220,"Vaccines, human use",8,Weight in kilograms,160,160,15000,0
+H0,1992,1992,1992,6,1,1,Import,170,Colombia,COL,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,1195,1195,142194,0
+H0,1992,1992,1992,6,1,1,Import,170,Colombia,COL,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,231,231,38128,0
+H0,1992,1992,1992,6,1,1,Import,170,Colombia,COL,372,Ireland,IRL,300220,"Vaccines, human use",8,Weight in kilograms,9,9,19037,0
+H0,1992,1992,1992,6,1,2,Export,170,Colombia,COL,600,Paraguay,PRY,300220,"Vaccines, human use",8,Weight in kilograms,60,60,2010,0
+H0,1992,1992,1992,6,1,1,Import,170,Colombia,COL,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,3130,3130,477341,0
+H0,1992,1992,1992,6,1,1,Import,170,Colombia,COL,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,202,202,42481,0
+H0,1992,1992,1992,6,1,1,Import,191,Croatia,HRV,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,258462,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,46684,46684,2887158,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,24,Angola,AGO,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,20225,0
+H0,1992,1992,1992,6,1,1,Import,191,Croatia,HRV,40,Austria,AUT,300220,"Vaccines, human use",1,No Quantity,0,0,18908,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,50,Bangladesh,BGD,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,33695,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,300220,"Vaccines, human use",8,Weight in kilograms,6117,6117,378302,0
+H0,1992,1992,1992,6,1,1,Import,191,Croatia,HRV,124,Canada,CAN,300220,"Vaccines, human use",1,No Quantity,0,0,7352,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,140,Central African Rep.,CAF,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,24296,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,170,Colombia,COL,300220,"Vaccines, human use",8,Weight in kilograms,4000,4000,129524,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,178,Congo,COG,300220,"Vaccines, human use",8,Weight in kilograms,55,55,3430,0
+H0,1992,1992,1992,6,1,1,Import,191,Croatia,HRV,208,Denmark,DNK,300220,"Vaccines, human use",1,No Quantity,0,0,41957,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,212,Dominica,DMA,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,68001,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,222,El Salvador,SLV,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,26173,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,1155,1155,71429,0
+H0,1992,1992,1992,6,1,1,Import,191,Croatia,HRV,276,Germany,DEU,300220,"Vaccines, human use",1,No Quantity,0,0,166891,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,324,Guinea,GIN,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,16580,0
+H0,1992,1992,1992,6,1,1,Import,191,Croatia,HRV,381,Italy,ITA,300220,"Vaccines, human use",1,No Quantity,0,0,21789,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,404,Kenya,KEN,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,45289,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,450,Madagascar,MDG,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,19869,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,454,Malawi,MWI,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,13516,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,480,Mauritius,MUS,300220,"Vaccines, human use",8,Weight in kilograms,20,20,1243,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,504,Morocco,MAR,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,30705,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,562,Niger,NER,300220,"Vaccines, human use",8,Weight in kilograms,27,27,1684,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,566,Nigeria,NGA,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,24095,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,604,Peru,PER,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,49134,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,646,Rwanda,RWA,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,17093,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,694,Sierra Leone,SLE,300220,"Vaccines, human use",8,Weight in kilograms,152,152,9419,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,699,India,IND,300220,"Vaccines, human use",8,Weight in kilograms,7000,7000,429815,0
+H0,1992,1992,1992,6,1,1,Import,191,Croatia,HRV,705,Slovenia,SVN,300220,"Vaccines, human use",1,No Quantity,0,0,950,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,705,Slovenia,SVN,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,1060868,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,711,So. African Customs Union,ZAF,300220,"Vaccines, human use",8,Weight in kilograms,2099,2099,132095,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,716,Zimbabwe,ZWE,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,26942,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,736,Fmr Sudan,SDN,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,31087,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,41419,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,780,Trinidad and Tobago,TTO,300220,"Vaccines, human use",8,Weight in kilograms,32,32,2030,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,800,Uganda,UGA,300220,"Vaccines, human use",8,Weight in kilograms,3000,3000,57854,0
+H0,1992,1992,1992,6,1,1,Import,191,Croatia,HRV,826,United Kingdom,GBR,300220,"Vaccines, human use",1,No Quantity,0,0,615,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,105503,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,14125,0
+H0,1992,1992,1992,6,1,2,Export,191,Croatia,HRV,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",8,Weight in kilograms,27,27,1718,0
+H0,1992,1992,1992,6,1,1,Import,196,Cyprus,CYP,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,2802,2802,216861,0
+H0,1992,1992,1992,6,1,1,Import,196,Cyprus,CYP,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,84,84,8893,0
+H0,1992,1992,1992,6,1,1,Import,196,Cyprus,CYP,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,956,956,59541,0
+H0,1992,1992,1992,6,1,1,Import,196,Cyprus,CYP,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,48,48,4672,0
+H0,1992,1992,1992,6,1,1,Import,196,Cyprus,CYP,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,270,270,6687,0
+H0,1992,1992,1992,6,1,1,Import,196,Cyprus,CYP,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,134,134,23428,0
+H0,1992,1992,1992,6,1,1,Import,196,Cyprus,CYP,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,833,833,11132,0
+H0,1992,1992,1992,6,1,1,Import,196,Cyprus,CYP,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,473,473,102064,0
+H0,1992,1992,1992,6,1,1,Import,196,Cyprus,CYP,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,4,4,444,0
+H0,1992,1992,1992,6,1,1,Import,208,Denmark,DNK,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,24432,24432,5828558,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,6657,6657,3985666,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,32,Argentina,ARG,300220,"Vaccines, human use",8,Weight in kilograms,54,54,24299,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,61,61,49378,0
+H0,1992,1992,1992,6,1,1,Import,208,Denmark,DNK,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,1015,1015,1179086,0
+H0,1992,1992,1992,6,1,1,Import,208,Denmark,DNK,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,485,485,126573,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,234,Faeroe Isds,FRO,300220,"Vaccines, human use",8,Weight in kilograms,8,8,9251,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,246,Finland,FIN,300220,"Vaccines, human use",8,Weight in kilograms,28,28,10683,0
+H0,1992,1992,1992,6,1,1,Import,208,Denmark,DNK,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,6138,6138,1869914,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,114,114,81557,0
+H0,1992,1992,1992,6,1,1,Import,208,Denmark,DNK,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,196,196,66912,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,304,Greenland,GRL,300220,"Vaccines, human use",8,Weight in kilograms,38,38,57902,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,352,Iceland,ISL,300220,"Vaccines, human use",8,Weight in kilograms,18,18,7430,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,372,Ireland,IRL,300220,"Vaccines, human use",8,Weight in kilograms,1,1,1272,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,3,3,3437,0
+H0,1992,1992,1992,6,1,1,Import,208,Denmark,DNK,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,760,760,111078,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,440,Lithuania,LTU,300220,"Vaccines, human use",8,Weight in kilograms,1763,1763,283286,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,508,Mozambique,MOZ,300220,"Vaccines, human use",8,Weight in kilograms,3,3,8736,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,3,3,1453,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,533,Aruba,ABW,300220,"Vaccines, human use",8,Weight in kilograms,144,144,10714,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,579,Norway,NOR,300220,"Vaccines, human use",8,Weight in kilograms,35,35,129282,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,586,Pakistan,PAK,300220,"Vaccines, human use",8,Weight in kilograms,1,1,1573,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,620,Portugal,PRT,300220,"Vaccines, human use",8,Weight in kilograms,88,88,18386,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,643,Russian Federation,RUS,300220,"Vaccines, human use",8,Weight in kilograms,153,153,12526,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,682,Saudi Arabia,SAU,300220,"Vaccines, human use",8,Weight in kilograms,42,42,15594,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,704,Viet Nam,VNM,300220,"Vaccines, human use",8,Weight in kilograms,6,6,1261,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,724,Spain,ESP,300220,"Vaccines, human use",8,Weight in kilograms,8,8,5302,0
+H0,1992,1992,1992,6,1,1,Import,208,Denmark,DNK,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,1677,1677,1105746,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,1236,1236,2403876,0
+H0,1992,1992,1992,6,1,1,Import,208,Denmark,DNK,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,102,102,155869,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,1,1,165690,0
+H0,1992,1992,1992,6,1,1,Import,208,Denmark,DNK,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,11188,11188,833581,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,3,3,1596,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,834,United Rep. of Tanzania,TZA,300220,"Vaccines, human use",8,Weight in kilograms,2664,2664,452332,0
+H0,1992,1992,1992,6,1,1,Import,208,Denmark,DNK,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,2871,2871,379799,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,1,1,3448,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,862,Venezuela,VEN,300220,"Vaccines, human use",8,Weight in kilograms,159,159,188085,0
+H0,1992,1992,1992,6,1,2,Export,208,Denmark,DNK,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",8,Weight in kilograms,22,22,37317,0
+H0,1992,1992,1992,6,1,1,Import,218,Ecuador,ECU,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,2409830,2409830,1145960,0
+H0,1992,1992,1992,6,1,1,Import,218,Ecuador,ECU,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,215620,215620,117552,0
+H0,1992,1992,1992,6,1,1,Import,218,Ecuador,ECU,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,11740,11740,194785,0
+H0,1992,1992,1992,6,1,1,Import,218,Ecuador,ECU,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,7910,7910,138951,0
+H0,1992,1992,1992,6,1,1,Import,218,Ecuador,ECU,484,Mexico,MEX,300220,"Vaccines, human use",8,Weight in kilograms,328820,328820,34671,0
+H0,1992,1992,1992,6,1,1,Import,218,Ecuador,ECU,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,5530,5530,203897,0
+H0,1992,1992,1992,6,1,1,Import,218,Ecuador,ECU,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,1840210,1840210,456104,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,11792,11792,5141393,0
+H0,1992,1992,1992,6,1,2,Export,246,Finland,FIN,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,1368,1368,150380,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,13,13,10734,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,243,243,244851,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,7,7,10313,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,114,114,78726,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,4705,4705,1334387,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,34,34,56346,0
+H0,1992,1992,1992,6,1,2,Export,246,Finland,FIN,352,Iceland,ISL,300220,"Vaccines, human use",8,Weight in kilograms,76,76,11072,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,1774,1774,721063,0
+H0,1992,1992,1992,6,1,2,Export,246,Finland,FIN,643,Russian Federation,RUS,300220,"Vaccines, human use",8,Weight in kilograms,75,75,8023,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,2511,2511,1836990,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,85,85,151086,0
+H0,1992,1992,1992,6,1,2,Export,246,Finland,FIN,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,1200,1200,124149,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,222,222,77719,0
+H0,1992,1992,1992,6,1,1,Import,246,Finland,FIN,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,2084,2084,619178,0
+H0,1992,1992,1992,6,1,2,Export,246,Finland,FIN,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,14,14,6876,0
+H0,1992,1992,1992,6,1,2,Export,246,Finland,FIN,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,3,3,260,0
+H0,1992,1992,1992,6,1,1,Import,276,Germany,DEU,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,161602,161602,81238000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,53719,53719,19706000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,12,Algeria,DZA,300220,"Vaccines, human use",8,Weight in kilograms,1200,1200,115000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,32,Argentina,ARG,300220,"Vaccines, human use",8,Weight in kilograms,400,400,144000,0
+H0,1992,1992,1992,6,1,1,Import,276,Germany,DEU,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,31200,31200,16650000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,200,200,601000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,50,Bangladesh,BGD,300220,"Vaccines, human use",8,Weight in kilograms,5200,5200,1027000,0
+H0,1992,1992,1992,6,1,1,Import,276,Germany,DEU,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,26300,26300,10968000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,2800,2800,1766000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,300220,"Vaccines, human use",8,Weight in kilograms,10,10,4000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,104,Myanmar,MMR,300220,"Vaccines, human use",8,Weight in kilograms,1600,1600,237000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,108,Burundi,BDI,300220,"Vaccines, human use",8,Weight in kilograms,100,100,31000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,120,Cameroon,CMR,300220,"Vaccines, human use",8,Weight in kilograms,10,10,4000,0
+H0,1992,1992,1992,6,1,1,Import,276,Germany,DEU,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,28200,28200,17773000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,144,Sri Lanka,LKA,300220,"Vaccines, human use",8,Weight in kilograms,1100,1100,369000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,148,Chad,TCD,300220,"Vaccines, human use",8,Weight in kilograms,24,24,9000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,170,Colombia,COL,300220,"Vaccines, human use",8,Weight in kilograms,400,400,26000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,178,Congo,COG,300220,"Vaccines, human use",8,Weight in kilograms,100,100,15000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,300220,"Vaccines, human use",8,Weight in kilograms,600,600,97000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,191,Croatia,HRV,300220,"Vaccines, human use",8,Weight in kilograms,447,447,164000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,196,Cyprus,CYP,300220,"Vaccines, human use",8,Weight in kilograms,35,35,13000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,200,Czechoslovakia,CSK,300220,"Vaccines, human use",8,Weight in kilograms,294,294,108000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,204,Benin,BEN,300220,"Vaccines, human use",8,Weight in kilograms,199,199,73000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,220,220,81000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,214,Dominican Rep.,DOM,300220,"Vaccines, human use",8,Weight in kilograms,200,200,28000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,218,Ecuador,ECU,300220,"Vaccines, human use",8,Weight in kilograms,250,250,92000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,233,Estonia,EST,300220,"Vaccines, human use",8,Weight in kilograms,10,10,4000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,242,Fiji,FJI,300220,"Vaccines, human use",8,Weight in kilograms,24,24,9000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,246,Finland,FIN,300220,"Vaccines, human use",8,Weight in kilograms,32,32,12000,0
+H0,1992,1992,1992,6,1,1,Import,276,Germany,DEU,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,23700,23700,10407000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,300,300,1927000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,262,Djibouti,DJI,300220,"Vaccines, human use",8,Weight in kilograms,400,400,46000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,266,Gabon,GAB,300220,"Vaccines, human use",8,Weight in kilograms,21,21,8000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,270,Gambia,GMB,300220,"Vaccines, human use",8,Weight in kilograms,10,10,4000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,288,Ghana,GHA,300220,"Vaccines, human use",8,Weight in kilograms,200,200,38000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,300,Greece,GRC,300220,"Vaccines, human use",8,Weight in kilograms,54,54,20000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,324,Guinea,GIN,300220,"Vaccines, human use",8,Weight in kilograms,10,10,4000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",8,Weight in kilograms,141,141,52000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,348,Hungary,HUN,300220,"Vaccines, human use",8,Weight in kilograms,1442,1442,529000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,364,Iran,IRN,300220,"Vaccines, human use",8,Weight in kilograms,3500,3500,498000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,368,Iraq,IRQ,300220,"Vaccines, human use",8,Weight in kilograms,200,200,74000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,372,Ireland,IRL,300220,"Vaccines, human use",8,Weight in kilograms,68,68,25000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,376,Israel,ISR,300220,"Vaccines, human use",8,Weight in kilograms,2,2,1000,0
+H0,1992,1992,1992,6,1,1,Import,276,Germany,DEU,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,2,2,1000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,100,100,516000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,2,2,1000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,400,Jordan,JOR,300220,"Vaccines, human use",8,Weight in kilograms,2500,2500,465000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,404,Kenya,KEN,300220,"Vaccines, human use",8,Weight in kilograms,1700,1700,272000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,418,Lao People's Dem. Rep.,LAO,300220,"Vaccines, human use",8,Weight in kilograms,19,19,7000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,422,Lebanon,LBN,300220,"Vaccines, human use",8,Weight in kilograms,100,100,9000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,440,Lithuania,LTU,300220,"Vaccines, human use",8,Weight in kilograms,100,100,7000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,454,Malawi,MWI,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,250000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,480,Mauritius,MUS,300220,"Vaccines, human use",8,Weight in kilograms,5,5,2000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,484,Mexico,MEX,300220,"Vaccines, human use",8,Weight in kilograms,700,700,805000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,490,"Other Asia, nes","",300220,"Vaccines, human use",8,Weight in kilograms,500,500,58000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,508,Mozambique,MOZ,300220,"Vaccines, human use",8,Weight in kilograms,51,51,19000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,524,Nepal,NPL,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,106000,0
+H0,1992,1992,1992,6,1,1,Import,276,Germany,DEU,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,836000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,300,300,449000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,558,Nicaragua,NIC,300220,"Vaccines, human use",8,Weight in kilograms,2,2,1000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,566,Nigeria,NGA,300220,"Vaccines, human use",8,Weight in kilograms,700,700,137000,0
+H0,1992,1992,1992,6,1,1,Import,276,Germany,DEU,579,Norway,NOR,300220,"Vaccines, human use",8,Weight in kilograms,400,400,1000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,579,Norway,NOR,300220,"Vaccines, human use",8,Weight in kilograms,2,2,1000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,586,Pakistan,PAK,300220,"Vaccines, human use",8,Weight in kilograms,6200,6200,1239000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,591,Panama,PAN,300220,"Vaccines, human use",8,Weight in kilograms,8,8,3000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,600,Paraguay,PRY,300220,"Vaccines, human use",8,Weight in kilograms,87,87,32000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,620,Portugal,PRT,300220,"Vaccines, human use",8,Weight in kilograms,2,2,1000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,643,Russian Federation,RUS,300220,"Vaccines, human use",8,Weight in kilograms,10,10,4000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,646,Rwanda,RWA,300220,"Vaccines, human use",8,Weight in kilograms,95,95,35000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,300220,"Vaccines, human use",8,Weight in kilograms,100,100,624000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,690,Seychelles,SYC,300220,"Vaccines, human use",8,Weight in kilograms,2,2,1000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,699,India,IND,300220,"Vaccines, human use",8,Weight in kilograms,500,500,962000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,704,Viet Nam,VNM,300220,"Vaccines, human use",8,Weight in kilograms,4100,4100,503000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,705,Slovenia,SVN,300220,"Vaccines, human use",8,Weight in kilograms,220,220,81000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,711,So. African Customs Union,ZAF,300220,"Vaccines, human use",8,Weight in kilograms,121,121,69000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,716,Zimbabwe,ZWE,300220,"Vaccines, human use",8,Weight in kilograms,27,27,10000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,736,Fmr Sudan,SDN,300220,"Vaccines, human use",8,Weight in kilograms,300,300,38000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,100,100,545000,0
+H0,1992,1992,1992,6,1,1,Import,276,Germany,DEU,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,5200,5200,2973000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,2600,2600,681000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,760,Syria,SYR,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,240000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,764,Thailand,THA,300220,"Vaccines, human use",8,Weight in kilograms,400,400,2253000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,784,United Arab Emirates,ARE,300220,"Vaccines, human use",8,Weight in kilograms,300,300,94000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,788,Tunisia,TUN,300220,"Vaccines, human use",8,Weight in kilograms,30,30,11000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,800,Uganda,UGA,300220,"Vaccines, human use",8,Weight in kilograms,1600,1600,253000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,818,Egypt,EGY,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,128000,0
+H0,1992,1992,1992,6,1,1,Import,276,Germany,DEU,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,6600,6600,1934000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,700,700,106000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,834,United Rep. of Tanzania,TZA,300220,"Vaccines, human use",8,Weight in kilograms,400,400,53000,0
+H0,1992,1992,1992,6,1,1,Import,276,Germany,DEU,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,39000,39000,19695000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,5,5,2000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,854,Burkina Faso,BFA,300220,"Vaccines, human use",8,Weight in kilograms,300,300,31000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,862,Venezuela,VEN,300220,"Vaccines, human use",8,Weight in kilograms,300,300,33000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,887,Yemen,YEM,300220,"Vaccines, human use",8,Weight in kilograms,700,700,89000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",8,Weight in kilograms,428,428,157000,0
+H0,1992,1992,1992,6,1,2,Export,276,Germany,DEU,894,Zambia,ZMB,300220,"Vaccines, human use",8,Weight in kilograms,500,500,68000,0
+H0,1992,1992,1992,6,1,1,Import,300,Greece,GRC,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,14283,14283,2518660,0
+H0,1992,1992,1992,6,1,1,Import,300,Greece,GRC,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,1197,1197,397385,0
+H0,1992,1992,1992,6,1,1,Import,300,Greece,GRC,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,6455,6455,1019854,0
+H0,1992,1992,1992,6,1,1,Import,300,Greece,GRC,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,63,63,10294,0
+H0,1992,1992,1992,6,1,1,Import,300,Greece,GRC,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,3019,3019,239218,0
+H0,1992,1992,1992,6,1,1,Import,300,Greece,GRC,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,3376,3376,837086,0
+H0,1992,1992,1992,6,1,1,Import,300,Greece,GRC,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,173,173,14823,0
+H0,1992,1992,1992,6,1,1,Import,328,Guyana,GUY,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,273,273,11819,0
+H0,1992,1992,1992,6,1,1,Import,328,Guyana,GUY,52,Barbados,BRB,300220,"Vaccines, human use",8,Weight in kilograms,207,207,5624,0
+H0,1992,1992,1992,6,1,1,Import,328,Guyana,GUY,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,6,6,3054,0
+H0,1992,1992,1992,6,1,1,Import,328,Guyana,GUY,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,60,60,3141,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,10205,10205,3557000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,179869,179869,2128000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,8,Albania,ALB,300220,"Vaccines, human use",8,Weight in kilograms,100,100,2000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,12,Algeria,DZA,300220,"Vaccines, human use",8,Weight in kilograms,1500,1500,19000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,24,Angola,AGO,300220,"Vaccines, human use",8,Weight in kilograms,1500,1500,38000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,32,Argentina,ARG,300220,"Vaccines, human use",8,Weight in kilograms,1700,1700,30000,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,5200,5200,2138000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,300,300,14000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,50,Bangladesh,BGD,300220,"Vaccines, human use",8,Weight in kilograms,7700,7700,151000,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,2200,2200,629000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,300220,"Vaccines, human use",8,Weight in kilograms,3900,3900,109000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,104,Myanmar,MMR,300220,"Vaccines, human use",8,Weight in kilograms,1200,1200,25000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,108,Burundi,BDI,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,25000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,120,Cameroon,CMR,300220,"Vaccines, human use",8,Weight in kilograms,700,700,16000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,19000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,132,Cabo Verde,CPV,300220,"Vaccines, human use",8,Weight in kilograms,300,300,6000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,140,Central African Rep.,CAF,300220,"Vaccines, human use",8,Weight in kilograms,200,200,3000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,144,Sri Lanka,LKA,300220,"Vaccines, human use",8,Weight in kilograms,600,600,13000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,170,Colombia,COL,300220,"Vaccines, human use",8,Weight in kilograms,3400,3400,62000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,174,Comoros,COM,300220,"Vaccines, human use",8,Weight in kilograms,100,100,4000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,178,Congo,COG,300220,"Vaccines, human use",8,Weight in kilograms,200,200,5000,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,200,Czechoslovakia,CSK,300220,"Vaccines, human use",8,Weight in kilograms,100,100,11000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,204,Benin,BEN,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,21000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,214,Dominican Rep.,DOM,300220,"Vaccines, human use",8,Weight in kilograms,100,100,7000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,222,El Salvador,SLV,300220,"Vaccines, human use",8,Weight in kilograms,500,500,10000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,226,Equatorial Guinea,GNQ,300220,"Vaccines, human use",8,Weight in kilograms,200,200,5000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,230,Fmr Ethiopia,ETH,300220,"Vaccines, human use",8,Weight in kilograms,75100,75100,46000,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,125000,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,500,500,536000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,288,Ghana,GHA,300220,"Vaccines, human use",8,Weight in kilograms,1800,1800,30000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,320,Guatemala,GTM,300220,"Vaccines, human use",8,Weight in kilograms,200,200,4000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,324,Guinea,GIN,300220,"Vaccines, human use",8,Weight in kilograms,1300,1300,26000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,332,Haiti,HTI,300220,"Vaccines, human use",8,Weight in kilograms,200,200,5000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,376,Israel,ISR,300220,"Vaccines, human use",8,Weight in kilograms,169,169,2000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,400,Jordan,JOR,300220,"Vaccines, human use",8,Weight in kilograms,200,200,3000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,404,Kenya,KEN,300220,"Vaccines, human use",8,Weight in kilograms,5000,5000,73000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,418,Lao People's Dem. Rep.,LAO,300220,"Vaccines, human use",8,Weight in kilograms,400,400,11000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,450,Madagascar,MDG,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,50000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,454,Malawi,MWI,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,42000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,462,Maldives,MDV,300220,"Vaccines, human use",8,Weight in kilograms,100,100,4000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,466,Mali,MLI,300220,"Vaccines, human use",8,Weight in kilograms,900,900,20000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,478,Mauritania,MRT,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,19000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,508,Mozambique,MOZ,300220,"Vaccines, human use",8,Weight in kilograms,800,800,25000,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,200,200,25000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,500,500,10000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,566,Nigeria,NGA,300220,"Vaccines, human use",8,Weight in kilograms,6300,6300,108000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,586,Pakistan,PAK,300220,"Vaccines, human use",8,Weight in kilograms,14400,14400,271000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,591,Panama,PAN,300220,"Vaccines, human use",8,Weight in kilograms,400,400,11000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,604,Peru,PER,300220,"Vaccines, human use",8,Weight in kilograms,5300,5300,92000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,608,Philippines,PHL,300220,"Vaccines, human use",8,Weight in kilograms,600,600,10000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,642,Romania,ROU,300220,"Vaccines, human use",8,Weight in kilograms,300,300,6000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,300220,"Vaccines, human use",8,Weight in kilograms,2300,2300,50000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,646,Rwanda,RWA,300220,"Vaccines, human use",8,Weight in kilograms,2600,2600,69000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,686,Senegal,SEN,300220,"Vaccines, human use",8,Weight in kilograms,1700,1700,31000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,694,Sierra Leone,SLE,300220,"Vaccines, human use",8,Weight in kilograms,500,500,9000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,699,India,IND,300220,"Vaccines, human use",8,Weight in kilograms,200,200,3000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,704,Viet Nam,VNM,300220,"Vaccines, human use",8,Weight in kilograms,2800,2800,65000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,711,So. African Customs Union,ZAF,300220,"Vaccines, human use",8,Weight in kilograms,1100,1100,29000,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,724,Spain,ESP,300220,"Vaccines, human use",8,Weight in kilograms,14,14,5000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,736,Fmr Sudan,SDN,300220,"Vaccines, human use",8,Weight in kilograms,6100,6100,125000,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,14,14,5000,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,500,500,53000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,600,600,15000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,760,Syria,SYR,300220,"Vaccines, human use",8,Weight in kilograms,700,700,13000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,800,Uganda,UGA,300220,"Vaccines, human use",8,Weight in kilograms,1600,1600,32000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,818,Egypt,EGY,300220,"Vaccines, human use",8,Weight in kilograms,2900,2900,41000,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,77,77,27000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,300220,"Vaccines, human use",8,Weight in kilograms,6800,6800,126000,0
+H0,1992,1992,1992,6,1,1,Import,348,Hungary,HUN,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,400,400,3000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,100,100,2000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,858,Uruguay,URY,300220,"Vaccines, human use",8,Weight in kilograms,700,700,14000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,887,Yemen,YEM,300220,"Vaccines, human use",8,Weight in kilograms,700,700,13000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",8,Weight in kilograms,1100,1100,20000,0
+H0,1992,1992,1992,6,1,2,Export,348,Hungary,HUN,894,Zambia,ZMB,300220,"Vaccines, human use",8,Weight in kilograms,1200,1200,19000,0
+H0,1992,1992,1992,6,1,1,Import,352,Iceland,ISL,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,2108,2108,650494,0
+H0,1992,1992,1992,6,1,2,Export,352,Iceland,ISL,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,20,20,8939,0
+H0,1992,1992,1992,6,1,1,Import,352,Iceland,ISL,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,37,37,14787,0
+H0,1992,1992,1992,6,1,1,Import,352,Iceland,ISL,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,227,227,90505,0
+H0,1992,1992,1992,6,1,1,Import,352,Iceland,ISL,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,506,506,42752,0
+H0,1992,1992,1992,6,1,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,300220,"Vaccines, human use",8,Weight in kilograms,20,20,8939,0
+H0,1992,1992,1992,6,1,1,Import,352,Iceland,ISL,246,Finland,FIN,300220,"Vaccines, human use",8,Weight in kilograms,77,77,12175,0
+H0,1992,1992,1992,6,1,1,Import,352,Iceland,ISL,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,821,821,156377,0
+H0,1992,1992,1992,6,1,1,Import,352,Iceland,ISL,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,264,264,248072,0
+H0,1992,1992,1992,6,1,1,Import,352,Iceland,ISL,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,172,172,85464,0
+H0,1992,1992,1992,6,1,1,Import,352,Iceland,ISL,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,4,4,362,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,73803,73803,22901904,0
+H0,1992,1992,1992,6,1,2,Export,360,Indonesia,IDN,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,3875,3875,213825,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,36,Australia,AUS,300220,"Vaccines, human use",8,Weight in kilograms,1593,1593,517092,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,870,870,525746,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,27842,27842,4110757,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,71,71,11677,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,81,81,64548,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,28628,28628,13756320,0
+H0,1992,1992,1992,6,1,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",8,Weight in kilograms,3690,3690,190561,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,3731,3731,847082,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,300220,"Vaccines, human use",8,Weight in kilograms,7685,7685,2479224,0
+H0,1992,1992,1992,6,1,2,Export,360,Indonesia,IDN,490,"Other Asia, nes","",300220,"Vaccines, human use",8,Weight in kilograms,45,45,22410,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,445575,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,702,Singapore,SGP,300220,"Vaccines, human use",8,Weight in kilograms,5,5,15339,0
+H0,1992,1992,1992,6,1,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,300220,"Vaccines, human use",8,Weight in kilograms,140,140,854,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,801,801,82410,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,209,209,24104,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,287,287,22029,0
+H0,1992,1992,1992,6,1,1,Import,372,Ireland,IRL,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,14399,14399,4692267,0
+H0,1992,1992,1992,6,1,2,Export,372,Ireland,IRL,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,21556,21556,725722,0
+H0,1992,1992,1992,6,1,1,Import,372,Ireland,IRL,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,1629,1629,608131,0
+H0,1992,1992,1992,6,1,1,Import,372,Ireland,IRL,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,171,171,14948,0
+H0,1992,1992,1992,6,1,2,Export,372,Ireland,IRL,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,5079,5079,76422,0
+H0,1992,1992,1992,6,1,1,Import,372,Ireland,IRL,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,1018,1018,573616,0
+H0,1992,1992,1992,6,1,1,Import,372,Ireland,IRL,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,168,168,33162,0
+H0,1992,1992,1992,6,1,2,Export,372,Ireland,IRL,292,Gibraltar,GIB,300220,"Vaccines, human use",8,Weight in kilograms,4,4,4933,0
+H0,1992,1992,1992,6,1,2,Export,372,Ireland,IRL,300,Greece,GRC,300220,"Vaccines, human use",8,Weight in kilograms,42,42,109351,0
+H0,1992,1992,1992,6,1,2,Export,372,Ireland,IRL,724,Spain,ESP,300220,"Vaccines, human use",8,Weight in kilograms,8000,8000,83991,0
+H0,1992,1992,1992,6,1,1,Import,372,Ireland,IRL,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,2,2,2872,0
+H0,1992,1992,1992,6,1,1,Import,372,Ireland,IRL,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,10046,10046,1285601,0
+H0,1992,1992,1992,6,1,2,Export,372,Ireland,IRL,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,224,224,48170,0
+H0,1992,1992,1992,6,1,1,Import,372,Ireland,IRL,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,1365,1365,2173937,0
+H0,1992,1992,1992,6,1,2,Export,372,Ireland,IRL,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,8000,8000,400314,0
+H0,1992,1992,1992,6,1,2,Export,372,Ireland,IRL,887,Yemen,YEM,300220,"Vaccines, human use",8,Weight in kilograms,200,200,2158,0
+H0,1992,1992,1992,6,1,2,Export,372,Ireland,IRL,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,7,7,383,0
+H0,1992,1992,1992,6,1,1,Import,388,Jamaica,JAM,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,1868,1868,241827,0
+H0,1992,1992,1992,6,1,1,Import,388,Jamaica,JAM,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,423,423,157291,0
+H0,1992,1992,1992,6,1,1,Import,388,Jamaica,JAM,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,618,618,36982,0
+H0,1992,1992,1992,6,1,1,Import,388,Jamaica,JAM,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,746,746,34068,0
+H0,1992,1992,1992,6,1,1,Import,388,Jamaica,JAM,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,39,39,4536,0
+H0,1992,1992,1992,6,1,1,Import,388,Jamaica,JAM,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,42,42,8950,0
+H0,1992,1992,1992,6,1,1,Import,392,Japan,JPN,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,446,446,3570450,0
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,166816,166816,29093586,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,32,Argentina,ARG,300220,"Vaccines, human use",8,Weight in kilograms,2173,2173,176339,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,36,Australia,AUS,300220,"Vaccines, human use",8,Weight in kilograms,67,67,16670,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,19,19,19734,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,48,Bahrain,BHR,300220,"Vaccines, human use",8,Weight in kilograms,15,15,4754,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,50,Bangladesh,BGD,300220,"Vaccines, human use",8,Weight in kilograms,18336,18336,962777,2
+H0,1992,1992,1992,6,1,1,Import,392,Japan,JPN,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,25,25,170966,0
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,64,Bhutan,BTN,300220,"Vaccines, human use",8,Weight in kilograms,117,117,11276,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,300220,"Vaccines, human use",8,Weight in kilograms,6228,6228,163649,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,100,Bulgaria,BGR,300220,"Vaccines, human use",8,Weight in kilograms,32,32,3790,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,104,Myanmar,MMR,300220,"Vaccines, human use",8,Weight in kilograms,4449,4449,122453,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,116,Cambodia,KHM,300220,"Vaccines, human use",8,Weight in kilograms,173,173,51644,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,218,218,37351,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,144,Sri Lanka,LKA,300220,"Vaccines, human use",8,Weight in kilograms,1405,1405,68235,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,152,Chile,CHL,300220,"Vaccines, human use",8,Weight in kilograms,580,580,71164,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,156,China,CHN,300220,"Vaccines, human use",8,Weight in kilograms,59,59,16275,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,188,Costa Rica,CRI,300220,"Vaccines, human use",8,Weight in kilograms,242,242,27220,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,200,Czechoslovakia,CSK,300220,"Vaccines, human use",8,Weight in kilograms,8,8,3032,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,5930,5930,292964,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,214,Dominican Rep.,DOM,300220,"Vaccines, human use",8,Weight in kilograms,2408,2408,81714,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,218,Ecuador,ECU,300220,"Vaccines, human use",8,Weight in kilograms,242,242,24669,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,222,El Salvador,SLV,300220,"Vaccines, human use",8,Weight in kilograms,290,290,33726,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,230,Fmr Ethiopia,ETH,300220,"Vaccines, human use",8,Weight in kilograms,4077,4077,217085,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,242,Fiji,FJI,300220,"Vaccines, human use",8,Weight in kilograms,587,587,29818,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,36,36,8007,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,54,54,16046,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,320,Guatemala,GTM,300220,"Vaccines, human use",8,Weight in kilograms,1343,1343,59288,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,340,Honduras,HND,300220,"Vaccines, human use",8,Weight in kilograms,1762,1762,208423,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",8,Weight in kilograms,183,183,58253,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,360,Indonesia,IDN,300220,"Vaccines, human use",8,Weight in kilograms,424,424,123819,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,364,Iran,IRN,300220,"Vaccines, human use",8,Weight in kilograms,975,975,28396,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,372,Ireland,IRL,300220,"Vaccines, human use",8,Weight in kilograms,2,2,7581,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,388,Jamaica,JAM,300220,"Vaccines, human use",8,Weight in kilograms,24,24,2322,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,400,Jordan,JOR,300220,"Vaccines, human use",8,Weight in kilograms,1898,1898,138996,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,404,Kenya,KEN,300220,"Vaccines, human use",8,Weight in kilograms,8855,8855,435971,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,408,Dem. People's Rep. of Korea,PRK,300220,"Vaccines, human use",8,Weight in kilograms,15,15,2693,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,410,Rep. of Korea,KOR,300220,"Vaccines, human use",8,Weight in kilograms,18699,18699,15276715,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,418,Lao People's Dem. Rep.,LAO,300220,"Vaccines, human use",8,Weight in kilograms,1017,1017,45129,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,422,Lebanon,LBN,300220,"Vaccines, human use",8,Weight in kilograms,196,196,5409,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,458,Malaysia,MYS,300220,"Vaccines, human use",8,Weight in kilograms,2285,2285,280519,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,462,Maldives,MDV,300220,"Vaccines, human use",8,Weight in kilograms,331,331,14743,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,480,Mauritius,MUS,300220,"Vaccines, human use",8,Weight in kilograms,58,58,6704,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,490,"Other Asia, nes","",300220,"Vaccines, human use",8,Weight in kilograms,4182,4182,1121120,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,512,Oman,OMN,300220,"Vaccines, human use",8,Weight in kilograms,138,138,13408,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,524,Nepal,NPL,300220,"Vaccines, human use",8,Weight in kilograms,5181,5181,246942,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,558,Nicaragua,NIC,300220,"Vaccines, human use",8,Weight in kilograms,320,320,36798,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,586,Pakistan,PAK,300220,"Vaccines, human use",8,Weight in kilograms,10462,10462,543728,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,591,Panama,PAN,300220,"Vaccines, human use",8,Weight in kilograms,133,133,12113,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,600,Paraguay,PRY,300220,"Vaccines, human use",8,Weight in kilograms,2048,2048,52718,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,604,Peru,PER,300220,"Vaccines, human use",8,Weight in kilograms,1662,1662,142494,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,608,Philippines,PHL,300220,"Vaccines, human use",8,Weight in kilograms,1988,1988,54795,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,616,Poland,POL,300220,"Vaccines, human use",8,Weight in kilograms,29,29,10897,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,634,Qatar,QAT,300220,"Vaccines, human use",8,Weight in kilograms,19,19,6120,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,646,Rwanda,RWA,300220,"Vaccines, human use",8,Weight in kilograms,468,468,45832,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,682,Saudi Arabia,SAU,300220,"Vaccines, human use",8,Weight in kilograms,677,677,197265,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,699,India,IND,300220,"Vaccines, human use",8,Weight in kilograms,5919,5919,569724,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,702,Singapore,SGP,300220,"Vaccines, human use",8,Weight in kilograms,54,54,6665,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,704,Viet Nam,VNM,300220,"Vaccines, human use",8,Weight in kilograms,8886,8886,244487,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,711,So. African Customs Union,ZAF,300220,"Vaccines, human use",8,Weight in kilograms,724,724,133263,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,736,Fmr Sudan,SDN,300220,"Vaccines, human use",8,Weight in kilograms,3162,3162,105230,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,630,630,81643,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,41,41,10645,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,760,Syria,SYR,300220,"Vaccines, human use",8,Weight in kilograms,334,334,29517,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,764,Thailand,THA,300220,"Vaccines, human use",8,Weight in kilograms,12980,12980,827966,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,768,Togo,TGO,300220,"Vaccines, human use",8,Weight in kilograms,1180,1180,32455,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,818,Egypt,EGY,300220,"Vaccines, human use",8,Weight in kilograms,8180,8180,387644,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,294,294,86168,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,834,United Rep. of Tanzania,TZA,300220,"Vaccines, human use",8,Weight in kilograms,2949,2949,81130,2
+H0,1992,1992,1992,6,1,1,Import,392,Japan,JPN,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,421,421,3399484,0
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,1970,1970,4590973,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,858,Uruguay,URY,300220,"Vaccines, human use",8,Weight in kilograms,17,17,4533,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,887,Yemen,YEM,300220,"Vaccines, human use",8,Weight in kilograms,3365,3365,149767,2
+H0,1992,1992,1992,6,1,2,Export,392,Japan,JPN,894,Zambia,ZMB,300220,"Vaccines, human use",8,Weight in kilograms,3012,3012,112195,2
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,56657,56657,5693906,0
+H0,1992,1992,1992,6,1,2,Export,404,Kenya,KEN,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,1855,1855,69725,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,10,10,20902,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,4385,4385,3994344,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,21768,21768,302613,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,6428,6428,452079,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,348,Hungary,HUN,300220,"Vaccines, human use",8,Weight in kilograms,2898,2898,65644,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,4405,4405,186039,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,9530,9530,316413,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,233,233,1563,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,699,India,IND,300220,"Vaccines, human use",8,Weight in kilograms,60,60,685,0
+H0,1992,1992,1992,6,1,2,Export,404,Kenya,KEN,706,Somalia,SOM,300220,"Vaccines, human use",8,Weight in kilograms,1850,1850,69711,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,711,So. African Customs Union,ZAF,300220,"Vaccines, human use",8,Weight in kilograms,40,40,4600,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,174,174,3911,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,4350,4350,219873,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,2368,2368,124620,0
+H0,1992,1992,1992,6,1,1,Import,404,Kenya,KEN,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,8,8,620,0
+H0,1992,1992,1992,6,1,2,Export,404,Kenya,KEN,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,5,5,14,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,28325,28325,28617832,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,39662,39662,7877743,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,36,Australia,AUS,300220,"Vaccines, human use",8,Weight in kilograms,0,0,953,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,1103,1103,1588569,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,144,Sri Lanka,LKA,300220,"Vaccines, human use",8,Weight in kilograms,1347,1347,262250,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,156,China,CHN,300220,"Vaccines, human use",8,Weight in kilograms,2744,2744,1213545,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,2572,2572,9392501,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,32,32,36886,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",8,Weight in kilograms,168,168,23300,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,352,Iceland,ISL,300220,"Vaccines, human use",8,Weight in kilograms,29,29,9745,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,360,Indonesia,IDN,300220,"Vaccines, human use",8,Weight in kilograms,8763,8763,2759101,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,16069,16069,12812251,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,446,"China, Macao SAR",MAC,300220,"Vaccines, human use",8,Weight in kilograms,807,807,52550,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,458,Malaysia,MYS,300220,"Vaccines, human use",8,Weight in kilograms,844,844,248236,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,490,"Other Asia, nes","",300220,"Vaccines, human use",8,Weight in kilograms,5,5,1000,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,554,New Zealand,NZL,300220,"Vaccines, human use",8,Weight in kilograms,30,30,4112,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,598,Papua New Guinea,PNG,300220,"Vaccines, human use",8,Weight in kilograms,51,51,13500,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,608,Philippines,PHL,300220,"Vaccines, human use",8,Weight in kilograms,8887,8887,1482553,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,699,India,IND,300220,"Vaccines, human use",8,Weight in kilograms,198,198,24871,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,160,160,14000,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,4159,4159,2478160,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,764,Thailand,THA,300220,"Vaccines, human use",8,Weight in kilograms,18225,18225,2961634,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,771,771,774110,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,72,72,6135,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,843,843,300095,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,74,74,14327,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",8,Weight in kilograms,20,20,20000,0
+H0,1992,1992,1992,6,1,1,Import,410,Rep. of Korea,KOR,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,12,12,762,0
+H0,1992,1992,1992,6,1,2,Export,410,Rep. of Korea,KOR,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,2,2,429,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,2713,2713,184049,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,36,Australia,AUS,300220,"Vaccines, human use",8,Weight in kilograms,1064,1064,52929,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,1,1,1024,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,51,51,11634,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,5,5,2233,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,300220,"Vaccines, human use",8,Weight in kilograms,1244,1244,82837,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,14,14,4720,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,620,Portugal,PRT,300220,"Vaccines, human use",8,Weight in kilograms,20,20,1554,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,702,Singapore,SGP,300220,"Vaccines, human use",8,Weight in kilograms,120,120,19829,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,36,36,1778,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,130,130,1524,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,27,27,3944,0
+H0,1992,1992,1992,6,1,1,Import,446,"China, Macao SAR",MAC,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,1,1,43,0
+H0,1992,1992,1992,6,1,1,Import,450,Madagascar,MDG,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,12214,12214,582993,0
+H0,1992,1992,1992,6,1,1,Import,450,Madagascar,MDG,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,1413,1413,97281,0
+H0,1992,1992,1992,6,1,1,Import,450,Madagascar,MDG,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,909,909,34773,0
+H0,1992,1992,1992,6,1,1,Import,450,Madagascar,MDG,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,8290,8290,428135,0
+H0,1992,1992,1992,6,1,1,Import,450,Madagascar,MDG,348,Hungary,HUN,300220,"Vaccines, human use",8,Weight in kilograms,1602,1602,22804,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,6569091,0
+H0,1992,1992,1992,6,1,2,Export,458,Malaysia,MYS,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,23096,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,36,Australia,AUS,300220,"Vaccines, human use",1,No Quantity,0,0,237679,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,3608248,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,124,Canada,CAN,300220,"Vaccines, human use",1,No Quantity,0,0,15289,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,348804,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,276,Germany,DEU,300220,"Vaccines, human use",1,No Quantity,0,0,219940,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,381,Italy,ITA,300220,"Vaccines, human use",1,No Quantity,0,0,247739,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,392,Japan,JPN,300220,"Vaccines, human use",1,No Quantity,0,0,226670,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,410,Rep. of Korea,KOR,300220,"Vaccines, human use",1,No Quantity,0,0,188956,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,528,Netherlands,NLD,300220,"Vaccines, human use",1,No Quantity,0,0,4318,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,699,India,IND,300220,"Vaccines, human use",1,No Quantity,0,0,23381,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,702,Singapore,SGP,300220,"Vaccines, human use",1,No Quantity,0,0,243525,0
+H0,1992,1992,1992,6,1,2,Export,458,Malaysia,MYS,702,Singapore,SGP,300220,"Vaccines, human use",1,No Quantity,0,0,22719,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,757,Switzerland,CHE,300220,"Vaccines, human use",1,No Quantity,0,0,341840,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,764,Thailand,THA,300220,"Vaccines, human use",1,No Quantity,0,0,14961,0
+H0,1992,1992,1992,6,1,1,Import,458,Malaysia,MYS,842,USA,USA,300220,"Vaccines, human use",1,No Quantity,0,0,847741,0
+H0,1992,1992,1992,6,1,2,Export,458,Malaysia,MYS,899,"Areas, nes","",300220,"Vaccines, human use",1,No Quantity,0,0,377,0
+H0,1992,1992,1992,6,1,1,Import,484,Mexico,MEX,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,138410,138410,15058000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,13913,13913,431000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,32,Argentina,ARG,300220,"Vaccines, human use",8,Weight in kilograms,1070,1070,4000,0
+H0,1992,1992,1992,6,1,1,Import,484,Mexico,MEX,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,23957,23957,4009000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,76,Brazil,BRA,300220,"Vaccines, human use",8,Weight in kilograms,211,211,100000,0
+H0,1992,1992,1992,6,1,1,Import,484,Mexico,MEX,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,41,41,2000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,300220,"Vaccines, human use",8,Weight in kilograms,101,101,5000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,214,Dominican Rep.,DOM,300220,"Vaccines, human use",8,Weight in kilograms,233,233,4000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,218,Ecuador,ECU,300220,"Vaccines, human use",8,Weight in kilograms,1341,1341,24000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,222,El Salvador,SLV,300220,"Vaccines, human use",8,Weight in kilograms,214,214,6000,0
+H0,1992,1992,1992,6,1,1,Import,484,Mexico,MEX,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,55850,55850,6277000,0
+H0,1992,1992,1992,6,1,1,Import,484,Mexico,MEX,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,4967,4967,655000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,320,Guatemala,GTM,300220,"Vaccines, human use",8,Weight in kilograms,306,306,14000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,340,Honduras,HND,300220,"Vaccines, human use",8,Weight in kilograms,3071,3071,32000,0
+H0,1992,1992,1992,6,1,1,Import,484,Mexico,MEX,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,6590,6590,587000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,558,Nicaragua,NIC,300220,"Vaccines, human use",8,Weight in kilograms,1969,1969,20000,0
+H0,1992,1992,1992,6,1,1,Import,484,Mexico,MEX,591,Panama,PAN,300220,"Vaccines, human use",8,Weight in kilograms,2874,2874,121000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,591,Panama,PAN,300220,"Vaccines, human use",8,Weight in kilograms,1264,1264,15000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,604,Peru,PER,300220,"Vaccines, human use",8,Weight in kilograms,528,528,18000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,608,Philippines,PHL,300220,"Vaccines, human use",8,Weight in kilograms,677,677,17000,0
+H0,1992,1992,1992,6,1,1,Import,484,Mexico,MEX,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,42433,42433,2329000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,2013,2013,94000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,780,Trinidad and Tobago,TTO,300220,"Vaccines, human use",8,Weight in kilograms,294,294,75000,0
+H0,1992,1992,1992,6,1,1,Import,484,Mexico,MEX,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,1698,1698,1078000,0
+H0,1992,1992,1992,6,1,2,Export,484,Mexico,MEX,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,621,621,3000,0
+H0,1992,1992,1992,6,1,1,Import,528,Netherlands,NLD,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,34161,34161,26291088,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,61145,61145,32571284,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,36,Australia,AUS,300220,"Vaccines, human use",8,Weight in kilograms,80,80,14100,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,2429,2429,1298431,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,48,Bahrain,BHR,300220,"Vaccines, human use",8,Weight in kilograms,241,241,29365,0
+H0,1992,1992,1992,6,1,1,Import,528,Netherlands,NLD,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,5715,5715,869564,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,4033,4033,3179239,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,76,Brazil,BRA,300220,"Vaccines, human use",8,Weight in kilograms,325,325,152085,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,100,Bulgaria,BGR,300220,"Vaccines, human use",8,Weight in kilograms,1360,1360,1261774,0
+H0,1992,1992,1992,6,1,1,Import,528,Netherlands,NLD,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,505,505,253539,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,191,Croatia,HRV,300220,"Vaccines, human use",8,Weight in kilograms,2,2,683,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,196,Cyprus,CYP,300220,"Vaccines, human use",8,Weight in kilograms,428,428,80448,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,200,Czechoslovakia,CSK,300220,"Vaccines, human use",8,Weight in kilograms,130,130,399341,0
+H0,1992,1992,1992,6,1,1,Import,528,Netherlands,NLD,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,31,31,15707,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,13,13,3127,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,246,Finland,FIN,300220,"Vaccines, human use",8,Weight in kilograms,860,860,598699,0
+H0,1992,1992,1992,6,1,1,Import,528,Netherlands,NLD,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,7866,7866,2641810,0
+H0,1992,1992,1992,6,1,1,Import,528,Netherlands,NLD,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,439,439,1008121,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,2212,2212,980727,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,300,Greece,GRC,300220,"Vaccines, human use",8,Weight in kilograms,2851,2851,199226,0
+H0,1992,1992,1992,6,1,1,Import,528,Netherlands,NLD,376,Israel,ISR,300220,"Vaccines, human use",8,Weight in kilograms,500,500,204514,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,376,Israel,ISR,300220,"Vaccines, human use",8,Weight in kilograms,4954,4954,1079308,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,237,237,737952,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,400,Jordan,JOR,300220,"Vaccines, human use",8,Weight in kilograms,7,7,1495,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,414,Kuwait,KWT,300220,"Vaccines, human use",8,Weight in kilograms,779,779,191120,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,422,Lebanon,LBN,300220,"Vaccines, human use",8,Weight in kilograms,35,35,30653,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,484,Mexico,MEX,300220,"Vaccines, human use",8,Weight in kilograms,328,328,174062,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,579,Norway,NOR,300220,"Vaccines, human use",8,Weight in kilograms,42,42,16729,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,604,Peru,PER,300220,"Vaccines, human use",8,Weight in kilograms,5,5,1176,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,616,Poland,POL,300220,"Vaccines, human use",8,Weight in kilograms,600,600,736206,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,620,Portugal,PRT,300220,"Vaccines, human use",8,Weight in kilograms,2094,2094,5093897,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,634,Qatar,QAT,300220,"Vaccines, human use",8,Weight in kilograms,22,22,9960,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,642,Romania,ROU,300220,"Vaccines, human use",8,Weight in kilograms,626,626,599879,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,682,Saudi Arabia,SAU,300220,"Vaccines, human use",8,Weight in kilograms,4683,4683,1008782,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,711,So. African Customs Union,ZAF,300220,"Vaccines, human use",8,Weight in kilograms,210,210,170223,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,724,Spain,ESP,300220,"Vaccines, human use",8,Weight in kilograms,1770,1770,1910162,0
+H0,1992,1992,1992,6,1,1,Import,528,Netherlands,NLD,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,72,72,353530,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,3231,3231,1279285,0
+H0,1992,1992,1992,6,1,1,Import,528,Netherlands,NLD,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,4046,4046,1700366,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,5511,5511,2832676,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,764,Thailand,THA,300220,"Vaccines, human use",8,Weight in kilograms,21,21,10985,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,780,Trinidad and Tobago,TTO,300220,"Vaccines, human use",8,Weight in kilograms,14,14,2750,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,818,Egypt,EGY,300220,"Vaccines, human use",8,Weight in kilograms,15649,15649,6224266,0
+H0,1992,1992,1992,6,1,1,Import,528,Netherlands,NLD,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,9733,9733,1761082,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,5329,5329,2255462,0
+H0,1992,1992,1992,6,1,1,Import,528,Netherlands,NLD,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,5254,5254,17482854,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,24,24,2288,0
+H0,1992,1992,1992,6,1,2,Export,528,Netherlands,NLD,858,Uruguay,URY,300220,"Vaccines, human use",8,Weight in kilograms,10,10,4724,0
+H0,1992,1992,1992,6,1,1,Import,554,New Zealand,NZL,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,1295035,0
+H0,1992,1992,1992,6,1,2,Export,554,New Zealand,NZL,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,34180,0
+H0,1992,1992,1992,6,1,3,Re-Export,554,New Zealand,NZL,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,31021,0
+H0,1992,1992,1992,6,1,1,Import,554,New Zealand,NZL,36,Australia,AUS,300220,"Vaccines, human use",1,No Quantity,0,0,225718,0
+H0,1992,1992,1992,6,1,2,Export,554,New Zealand,NZL,36,Australia,AUS,300220,"Vaccines, human use",1,No Quantity,0,0,8716,0
+H0,1992,1992,1992,6,1,3,Re-Export,554,New Zealand,NZL,36,Australia,AUS,300220,"Vaccines, human use",1,No Quantity,0,0,5557,0
+H0,1992,1992,1992,6,1,1,Import,554,New Zealand,NZL,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,227607,0
+H0,1992,1992,1992,6,1,1,Import,554,New Zealand,NZL,124,Canada,CAN,300220,"Vaccines, human use",1,No Quantity,0,0,187174,0
+H0,1992,1992,1992,6,1,1,Import,554,New Zealand,NZL,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,355436,0
+H0,1992,1992,1992,6,1,2,Export,554,New Zealand,NZL,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,25464,0
+H0,1992,1992,1992,6,1,3,Re-Export,554,New Zealand,NZL,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,25464,0
+H0,1992,1992,1992,6,1,1,Import,554,New Zealand,NZL,757,Switzerland,CHE,300220,"Vaccines, human use",1,No Quantity,0,0,48786,0
+H0,1992,1992,1992,6,1,1,Import,554,New Zealand,NZL,826,United Kingdom,GBR,300220,"Vaccines, human use",1,No Quantity,0,0,60349,0
+H0,1992,1992,1992,6,1,1,Import,554,New Zealand,NZL,842,USA,USA,300220,"Vaccines, human use",1,No Quantity,0,0,189965,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,15267,15267,755049,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,32,Argentina,ARG,300220,"Vaccines, human use",8,Weight in kilograms,3377,3377,214694,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,100,Bulgaria,BGR,300220,"Vaccines, human use",8,Weight in kilograms,894,894,45147,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,397,397,28231,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,152,Chile,CHL,300220,"Vaccines, human use",8,Weight in kilograms,555,555,21559,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,233,233,19091,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,348,Hungary,HUN,300220,"Vaccines, human use",8,Weight in kilograms,2184,2184,28647,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,762,762,36626,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,3173,3173,99875,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,724,Spain,ESP,300220,"Vaccines, human use",8,Weight in kilograms,172,172,24332,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,3001,3001,218505,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,72,72,14782,0
+H0,1992,1992,1992,6,1,1,Import,600,Paraguay,PRY,858,Uruguay,URY,300220,"Vaccines, human use",8,Weight in kilograms,447,447,3560,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,17252,17252,2091144,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,2488,2488,585395,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,76,Brazil,BRA,300220,"Vaccines, human use",8,Weight in kilograms,4194,4194,294923,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,128,128,30473,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,152,Chile,CHL,300220,"Vaccines, human use",8,Weight in kilograms,428,428,17029,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,170,Colombia,COL,300220,"Vaccines, human use",8,Weight in kilograms,18,18,2403,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,214,Dominican Rep.,DOM,300220,"Vaccines, human use",8,Weight in kilograms,160,160,14271,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,962,962,196625,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,131,131,51906,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,2260,2260,129518,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,2468,2468,425043,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,121,121,12493,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",8,Weight in kilograms,3461,3461,330399,0
+H0,1992,1992,1992,6,1,1,Import,604,Peru,PER,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,433,433,666,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,90878,90878,18926786,0
+H0,1992,1992,1992,6,1,2,Export,620,Portugal,PRT,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,3393,3393,98929,0
+H0,1992,1992,1992,6,1,2,Export,620,Portugal,PRT,24,Angola,AGO,300220,"Vaccines, human use",8,Weight in kilograms,47,47,3990,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,8026,8026,2262279,0
+H0,1992,1992,1992,6,1,2,Export,620,Portugal,PRT,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,266,266,83396,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,10,10,11777,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,438,438,196592,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,10128,10128,1472668,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,287,287,59214,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,5010,5010,93164,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,2094,2094,5144238,0
+H0,1992,1992,1992,6,1,2,Export,620,Portugal,PRT,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,3080,3080,11543,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,724,Spain,ESP,300220,"Vaccines, human use",8,Weight in kilograms,2490,2490,796635,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,51849,51849,7911219,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,10519,10519,976387,0
+H0,1992,1992,1992,6,1,1,Import,620,Portugal,PRT,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,27,27,2613,0
+H0,1992,1992,1992,6,1,1,Import,642,Romania,ROU,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,60859,0
+H0,1992,1992,1992,6,1,1,Import,642,Romania,ROU,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,0,0,6095,0
+H0,1992,1992,1992,6,1,1,Import,642,Romania,ROU,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,0,0,17003,0
+H0,1992,1992,1992,6,1,1,Import,642,Romania,ROU,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,37761,0
+H0,1992,1992,1992,6,1,1,Import,662,Saint Lucia,LCA,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,301,301,19727,0
+H0,1992,1992,1992,6,1,1,Import,662,Saint Lucia,LCA,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,117,117,9431,0
+H0,1992,1992,1992,6,1,1,Import,662,Saint Lucia,LCA,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,69,69,1464,0
+H0,1992,1992,1992,6,1,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,76,76,3384,0
+H0,1992,1992,1992,6,1,1,Import,662,Saint Lucia,LCA,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,16,16,1350,0
+H0,1992,1992,1992,6,1,1,Import,662,Saint Lucia,LCA,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,19,19,3437,0
+H0,1992,1992,1992,6,1,1,Import,662,Saint Lucia,LCA,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,4,4,661,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,223333,223333,16826640,0
+H0,1992,1992,1992,6,1,2,Export,682,Saudi Arabia,SAU,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,204,204,47090,0
+H0,1992,1992,1992,6,1,3,Re-Export,682,Saudi Arabia,SAU,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,204,204,47090,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,42244,42244,3240448,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,158,158,20549,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,9212,9212,1791495,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,51853,51853,4002115,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,13904,13904,2261370,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,372,Ireland,IRL,300220,"Vaccines, human use",8,Weight in kilograms,12838,12838,137937,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,675,675,43555,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,155,155,46871,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,400,Jordan,JOR,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,12893,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,33682,33682,1222785,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,530,Neth. Antilles,ANT,300220,"Vaccines, human use",8,Weight in kilograms,1446,1446,210845,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,554,New Zealand,NZL,300220,"Vaccines, human use",8,Weight in kilograms,480,480,7496,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,724,Spain,ESP,300220,"Vaccines, human use",8,Weight in kilograms,7,7,2600,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,818,Egypt,EGY,300220,"Vaccines, human use",8,Weight in kilograms,1770,1770,57555,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,22772,22772,1997531,0
+H0,1992,1992,1992,6,1,1,Import,682,Saudi Arabia,SAU,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,31137,31137,1770596,0
+H0,1992,1992,1992,6,1,2,Export,682,Saudi Arabia,SAU,887,Yemen,YEM,300220,"Vaccines, human use",8,Weight in kilograms,204,204,47090,0
+H0,1992,1992,1992,6,1,3,Re-Export,682,Saudi Arabia,SAU,887,Yemen,YEM,300220,"Vaccines, human use",8,Weight in kilograms,204,204,47090,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,12981294,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,451268,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,32,Argentina,ARG,300220,"Vaccines, human use",1,No Quantity,0,0,17333,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,40,Austria,AUT,300220,"Vaccines, human use",1,No Quantity,0,0,7085,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,50,Bangladesh,BGD,300220,"Vaccines, human use",1,No Quantity,0,0,16751,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,3395380,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,124,Canada,CAN,300220,"Vaccines, human use",1,No Quantity,0,0,789,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,144,Sri Lanka,LKA,300220,"Vaccines, human use",1,No Quantity,0,0,113738,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,208,Denmark,DNK,300220,"Vaccines, human use",1,No Quantity,0,0,10588,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,3313911,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,276,Germany,DEU,300220,"Vaccines, human use",1,No Quantity,0,0,570205,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,276,Germany,DEU,300220,"Vaccines, human use",1,No Quantity,0,0,103268,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,300,Greece,GRC,300220,"Vaccines, human use",1,No Quantity,0,0,8843,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,320,Guatemala,GTM,300220,"Vaccines, human use",1,No Quantity,0,0,33330,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,348,Hungary,HUN,300220,"Vaccines, human use",1,No Quantity,0,0,497736,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,381,Italy,ITA,300220,"Vaccines, human use",1,No Quantity,0,0,1514339,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,392,Japan,JPN,300220,"Vaccines, human use",1,No Quantity,0,0,1306,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,404,Kenya,KEN,300220,"Vaccines, human use",1,No Quantity,0,0,14049,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,410,Rep. of Korea,KOR,300220,"Vaccines, human use",1,No Quantity,0,0,46221,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,410,Rep. of Korea,KOR,300220,"Vaccines, human use",1,No Quantity,0,0,9186,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,458,Malaysia,MYS,300220,"Vaccines, human use",1,No Quantity,0,0,4752,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,512,Oman,OMN,300220,"Vaccines, human use",1,No Quantity,0,0,11528,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,524,Nepal,NPL,300220,"Vaccines, human use",1,No Quantity,0,0,60732,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,528,Netherlands,NLD,300220,"Vaccines, human use",1,No Quantity,0,0,123218,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,566,Nigeria,NGA,300220,"Vaccines, human use",1,No Quantity,0,0,8782,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,643,Russian Federation,RUS,300220,"Vaccines, human use",1,No Quantity,0,0,6363,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,702,Singapore,SGP,300220,"Vaccines, human use",1,No Quantity,0,0,6459,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,724,Spain,ESP,300220,"Vaccines, human use",1,No Quantity,0,0,14611,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,752,Sweden,SWE,300220,"Vaccines, human use",1,No Quantity,0,0,119329,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,757,Switzerland,CHE,300220,"Vaccines, human use",1,No Quantity,0,0,669823,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,784,United Arab Emirates,ARE,300220,"Vaccines, human use",1,No Quantity,0,0,35570,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,826,United Kingdom,GBR,300220,"Vaccines, human use",1,No Quantity,0,0,85521,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,842,USA,USA,300220,"Vaccines, human use",1,No Quantity,0,0,2260738,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,887,Yemen,YEM,300220,"Vaccines, human use",1,No Quantity,0,0,21524,0
+H0,1992,1992,1992,6,1,1,Import,699,India,IND,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",1,No Quantity,0,0,324318,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,894,Zambia,ZMB,300220,"Vaccines, human use",1,No Quantity,0,0,4226,0
+H0,1992,1992,1992,6,1,2,Export,699,India,IND,899,"Areas, nes","",300220,"Vaccines, human use",1,No Quantity,0,0,1010,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,1465459,0
+H0,1992,1992,1992,6,1,2,Export,702,Singapore,SGP,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,3462120,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,36,Australia,AUS,300220,"Vaccines, human use",1,No Quantity,0,0,53138,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,40,Austria,AUT,300220,"Vaccines, human use",1,No Quantity,0,0,3109,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,702380,0
+H0,1992,1992,1992,6,1,2,Export,702,Singapore,SGP,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,3460,0
+H0,1992,1992,1992,6,1,2,Export,702,Singapore,SGP,96,Brunei Darussalam,BRN,300220,"Vaccines, human use",1,No Quantity,0,0,488065,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,124,Canada,CAN,300220,"Vaccines, human use",1,No Quantity,0,0,16456,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,214484,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,276,Germany,DEU,300220,"Vaccines, human use",1,No Quantity,0,0,8853,0
+H0,1992,1992,1992,6,1,2,Export,702,Singapore,SGP,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",1,No Quantity,0,0,1101738,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,392,Japan,JPN,300220,"Vaccines, human use",1,No Quantity,0,0,8277,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,458,Malaysia,MYS,300220,"Vaccines, human use",1,No Quantity,0,0,35433,0
+H0,1992,1992,1992,6,1,2,Export,702,Singapore,SGP,458,Malaysia,MYS,300220,"Vaccines, human use",1,No Quantity,0,0,1850364,0
+H0,1992,1992,1992,6,1,2,Export,702,Singapore,SGP,490,"Other Asia, nes","",300220,"Vaccines, human use",1,No Quantity,0,0,14548,0
+H0,1992,1992,1992,6,1,2,Export,702,Singapore,SGP,699,India,IND,300220,"Vaccines, human use",1,No Quantity,0,0,2881,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,752,Sweden,SWE,300220,"Vaccines, human use",1,No Quantity,0,0,3782,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,757,Switzerland,CHE,300220,"Vaccines, human use",1,No Quantity,0,0,122941,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,826,United Kingdom,GBR,300220,"Vaccines, human use",1,No Quantity,0,0,23640,0
+H0,1992,1992,1992,6,1,1,Import,702,Singapore,SGP,842,USA,USA,300220,"Vaccines, human use",1,No Quantity,0,0,272966,0
+H0,1992,1992,1992,6,1,2,Export,702,Singapore,SGP,899,"Areas, nes","",300220,"Vaccines, human use",1,No Quantity,0,0,1064,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,4474193,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,384107,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,675029,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,124,Canada,CAN,300220,"Vaccines, human use",1,No Quantity,0,0,41972,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,208,Denmark,DNK,300220,"Vaccines, human use",1,No Quantity,0,0,80427,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,1973993,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,276,Germany,DEU,300220,"Vaccines, human use",1,No Quantity,0,0,28110,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",1,No Quantity,0,0,2530,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,348,Hungary,HUN,300220,"Vaccines, human use",1,No Quantity,0,0,13134,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,376,Israel,ISR,300220,"Vaccines, human use",1,No Quantity,0,0,3258,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,381,Italy,ITA,300220,"Vaccines, human use",1,No Quantity,0,0,1164,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,392,Japan,JPN,300220,"Vaccines, human use",1,No Quantity,0,0,7083,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,404,Kenya,KEN,300220,"Vaccines, human use",1,No Quantity,0,0,11666,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,454,Malawi,MWI,300220,"Vaccines, human use",1,No Quantity,0,0,7955,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,480,Mauritius,MUS,300220,"Vaccines, human use",1,No Quantity,0,0,27265,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,508,Mozambique,MOZ,300220,"Vaccines, human use",1,No Quantity,0,0,2776,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,528,Netherlands,NLD,300220,"Vaccines, human use",1,No Quantity,0,0,207434,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,638,Réunion,REU,300220,"Vaccines, human use",1,No Quantity,0,0,60644,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,716,Zimbabwe,ZWE,300220,"Vaccines, human use",1,No Quantity,0,0,16345,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,757,Switzerland,CHE,300220,"Vaccines, human use",1,No Quantity,0,0,696416,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,757,Switzerland,CHE,300220,"Vaccines, human use",1,No Quantity,0,0,117316,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,826,United Kingdom,GBR,300220,"Vaccines, human use",1,No Quantity,0,0,183872,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,834,United Rep. of Tanzania,TZA,300220,"Vaccines, human use",1,No Quantity,0,0,118233,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,842,USA,USA,300220,"Vaccines, human use",1,No Quantity,0,0,217304,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",1,No Quantity,0,0,344657,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,894,Zambia,ZMB,300220,"Vaccines, human use",1,No Quantity,0,0,18217,0
+H0,1992,1992,1992,6,1,1,Import,711,So. African Customs Union,ZAF,899,"Areas, nes","",300220,"Vaccines, human use",1,No Quantity,0,0,1068,0
+H0,1992,1992,1992,6,1,2,Export,711,So. African Customs Union,ZAF,899,"Areas, nes","",300220,"Vaccines, human use",1,No Quantity,0,0,432,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,93709,93709,29316406,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,40047,40047,6839170,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,24,Angola,AGO,300220,"Vaccines, human use",8,Weight in kilograms,24300,24300,86852,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,32,Argentina,ARG,300220,"Vaccines, human use",8,Weight in kilograms,52,52,26298,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,3,3,502,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,1834,1834,280730,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,10199,10199,10967256,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,1918,1918,582424,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,1534,1534,778650,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,152,Chile,CHL,300220,"Vaccines, human use",8,Weight in kilograms,244,244,12723,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,12,12,7937,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,212,Dominica,DMA,300220,"Vaccines, human use",8,Weight in kilograms,14,14,2815,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,214,Dominican Rep.,DOM,300220,"Vaccines, human use",8,Weight in kilograms,241,241,83025,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,53564,53564,8805418,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,6647,6647,1433365,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,348,Hungary,HUN,300220,"Vaccines, human use",8,Weight in kilograms,20,20,2750,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,15726,15726,2218831,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,2380,2380,3799260,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,1238,1238,1855821,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,620,Portugal,PRT,300220,"Vaccines, human use",8,Weight in kilograms,1891,1891,467382,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,7979,7979,2296571,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,464,464,59817,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,245,245,357456,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,3209,3209,2027957,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,20,20,1032,0
+H0,1992,1992,1992,6,1,1,Import,724,Spain,ESP,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,0,0,7,0
+H0,1992,1992,1992,6,1,2,Export,724,Spain,ESP,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,22,22,697,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,29000,29000,15296850,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,11000,11000,4298369,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,36,Australia,AUS,300220,"Vaccines, human use",8,Weight in kilograms,0,0,3096,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,449983,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,50,Bangladesh,BGD,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,85228,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,5000,5000,3818666,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,0,0,8076,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,0,0,298956,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,0,0,1031,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,170,Colombia,COL,300220,"Vaccines, human use",8,Weight in kilograms,0,0,24915,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,1276844,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,5000,5000,1227224,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,233,Estonia,EST,300220,"Vaccines, human use",8,Weight in kilograms,0,0,3956,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,246,Finland,FIN,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,944732,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,6000,6000,4318705,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,1108789,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,0,0,5326,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,352,Iceland,ISL,300220,"Vaccines, human use",8,Weight in kilograms,0,0,212899,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,91338,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,404,Kenya,KEN,300220,"Vaccines, human use",8,Weight in kilograms,0,0,4811,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,410,Rep. of Korea,KOR,300220,"Vaccines, human use",8,Weight in kilograms,0,0,15481,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,484,Mexico,MEX,300220,"Vaccines, human use",8,Weight in kilograms,0,0,26805,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,531517,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,0,0,343664,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,579,Norway,NOR,300220,"Vaccines, human use",8,Weight in kilograms,2000,2000,937000,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,616,Poland,POL,300220,"Vaccines, human use",8,Weight in kilograms,0,0,1718,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,624,Guinea-Bissau,GNB,300220,"Vaccines, human use",8,Weight in kilograms,0,0,859,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,0,0,191449,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,0,0,76029,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,10000,10000,3111697,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,1000,1000,468929,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,862,Venezuela,VEN,300220,"Vaccines, human use",8,Weight in kilograms,0,0,2577,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,894,Zambia,ZMB,300220,"Vaccines, human use",8,Weight in kilograms,0,0,1718,0
+H0,1992,1992,1992,6,1,1,Import,752,Sweden,SWE,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,0,0,344,0
+H0,1992,1992,1992,6,1,2,Export,752,Sweden,SWE,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,0,0,857,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,19533,19533,8631257,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,339598,339598,62960796,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,8,Albania,ALB,300220,"Vaccines, human use",8,Weight in kilograms,111,111,3171,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,12,Algeria,DZA,300220,"Vaccines, human use",8,Weight in kilograms,3012,3012,80292,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,24,Angola,AGO,300220,"Vaccines, human use",8,Weight in kilograms,1580,1580,69127,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,36,Australia,AUS,300220,"Vaccines, human use",8,Weight in kilograms,1105,1105,196291,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,6453,6453,2371715,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,300220,"Vaccines, human use",8,Weight in kilograms,288,288,23724,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,50,Bangladesh,BGD,300220,"Vaccines, human use",8,Weight in kilograms,4053,4053,139454,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,5561,5561,1704954,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,7609,7609,2923517,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,300220,"Vaccines, human use",8,Weight in kilograms,229,229,43151,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,300220,"Vaccines, human use",8,Weight in kilograms,69,69,36606,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,104,Myanmar,MMR,300220,"Vaccines, human use",8,Weight in kilograms,3792,3792,101848,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,108,Burundi,BDI,300220,"Vaccines, human use",8,Weight in kilograms,834,834,34613,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,116,Cambodia,KHM,300220,"Vaccines, human use",8,Weight in kilograms,590,590,24561,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,1217,1217,1100761,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,300220,"Vaccines, human use",8,Weight in kilograms,1957,1957,61938,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,152,Chile,CHL,300220,"Vaccines, human use",8,Weight in kilograms,795,795,232556,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,170,Colombia,COL,300220,"Vaccines, human use",8,Weight in kilograms,5528,5528,642806,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,178,Congo,COG,300220,"Vaccines, human use",8,Weight in kilograms,140,140,3098,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,300220,"Vaccines, human use",8,Weight in kilograms,1608,1608,59734,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,300220,"Vaccines, human use",8,Weight in kilograms,1835,1835,263513,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,191,Croatia,HRV,300220,"Vaccines, human use",8,Weight in kilograms,268,268,211272,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,300220,"Vaccines, human use",8,Weight in kilograms,271,271,39595,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,200,Czechoslovakia,CSK,300220,"Vaccines, human use",8,Weight in kilograms,1060,1060,502584,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,204,Benin,BEN,300220,"Vaccines, human use",8,Weight in kilograms,2303,2303,67337,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,18,18,180513,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,138,138,208197,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,300220,"Vaccines, human use",8,Weight in kilograms,3396,3396,262545,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,300220,"Vaccines, human use",8,Weight in kilograms,1720,1720,333573,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,222,El Salvador,SLV,300220,"Vaccines, human use",8,Weight in kilograms,3110,3110,308687,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,226,Equatorial Guinea,GNQ,300220,"Vaccines, human use",8,Weight in kilograms,309,309,8565,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,230,Fmr Ethiopia,ETH,300220,"Vaccines, human use",8,Weight in kilograms,563,563,19244,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,246,Finland,FIN,300220,"Vaccines, human use",8,Weight in kilograms,117,117,65153,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,1874,1874,536892,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,7,7,2028,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,262,Djibouti,DJI,300220,"Vaccines, human use",8,Weight in kilograms,124,124,3396,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,266,Gabon,GAB,300220,"Vaccines, human use",8,Weight in kilograms,113,113,3848,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,1104,1104,1852733,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,15454,15454,6267642,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,288,Ghana,GHA,300220,"Vaccines, human use",8,Weight in kilograms,278,278,9622,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,292,Gibraltar,GIB,300220,"Vaccines, human use",8,Weight in kilograms,12,12,4072,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,300,Greece,GRC,300220,"Vaccines, human use",8,Weight in kilograms,4488,4488,984690,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,300220,"Vaccines, human use",8,Weight in kilograms,1211,1211,224563,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,332,Haiti,HTI,300220,"Vaccines, human use",8,Weight in kilograms,579,579,34675,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,340,Honduras,HND,300220,"Vaccines, human use",8,Weight in kilograms,1237,1237,106464,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",8,Weight in kilograms,2293,2293,103191,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,348,Hungary,HUN,300220,"Vaccines, human use",8,Weight in kilograms,621,621,313507,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,364,Iran,IRN,300220,"Vaccines, human use",8,Weight in kilograms,2443,2443,138417,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,300220,"Vaccines, human use",8,Weight in kilograms,1806,1806,61774,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,376,Israel,ISR,300220,"Vaccines, human use",8,Weight in kilograms,151,151,62174,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,328,328,72074,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,54472,54472,15701739,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,388,Jamaica,JAM,300220,"Vaccines, human use",8,Weight in kilograms,59,59,4148,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,31,31,65369,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,498,498,25325,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,400,Jordan,JOR,300220,"Vaccines, human use",8,Weight in kilograms,1517,1517,62266,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,404,Kenya,KEN,300220,"Vaccines, human use",8,Weight in kilograms,450,450,15395,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,300220,"Vaccines, human use",8,Weight in kilograms,4149,4149,3005720,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,414,Kuwait,KWT,300220,"Vaccines, human use",8,Weight in kilograms,885,885,44066,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,300220,"Vaccines, human use",8,Weight in kilograms,1498,1498,247965,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,454,Malawi,MWI,300220,"Vaccines, human use",8,Weight in kilograms,505,505,19508,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,300220,"Vaccines, human use",8,Weight in kilograms,4468,4468,285910,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,470,Malta,MLT,300220,"Vaccines, human use",8,Weight in kilograms,168,168,39856,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,300220,"Vaccines, human use",8,Weight in kilograms,122,122,3132,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,484,Mexico,MEX,300220,"Vaccines, human use",8,Weight in kilograms,36391,36391,2380048,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,490,"Other Asia, nes","",300220,"Vaccines, human use",8,Weight in kilograms,4123,4123,255052,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,496,Mongolia,MNG,300220,"Vaccines, human use",8,Weight in kilograms,40,40,2082,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,512,Oman,OMN,300220,"Vaccines, human use",8,Weight in kilograms,585,585,42417,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,524,Nepal,NPL,300220,"Vaccines, human use",8,Weight in kilograms,15,15,2147,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,6720,6720,2256204,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,2522,2522,1413244,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,300220,"Vaccines, human use",8,Weight in kilograms,807,807,48538,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,579,Norway,NOR,300220,"Vaccines, human use",8,Weight in kilograms,63,63,86771,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,300220,"Vaccines, human use",8,Weight in kilograms,9571,9571,558365,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,591,Panama,PAN,300220,"Vaccines, human use",8,Weight in kilograms,1777,1777,159175,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,600,Paraguay,PRY,300220,"Vaccines, human use",8,Weight in kilograms,1450,1450,113916,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,604,Peru,PER,300220,"Vaccines, human use",8,Weight in kilograms,2867,2867,413723,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,608,Philippines,PHL,300220,"Vaccines, human use",8,Weight in kilograms,3678,3678,379970,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,616,Poland,POL,300220,"Vaccines, human use",8,Weight in kilograms,5867,5867,3544022,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,620,Portugal,PRT,300220,"Vaccines, human use",8,Weight in kilograms,46723,46723,7712999,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,634,Qatar,QAT,300220,"Vaccines, human use",8,Weight in kilograms,535,535,21372,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,642,Romania,ROU,300220,"Vaccines, human use",8,Weight in kilograms,113,113,58802,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,682,Saudi Arabia,SAU,300220,"Vaccines, human use",8,Weight in kilograms,19697,19697,1088032,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,686,Senegal,SEN,300220,"Vaccines, human use",8,Weight in kilograms,5,5,949,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,694,Sierra Leone,SLE,300220,"Vaccines, human use",8,Weight in kilograms,67,67,28558,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,702,Singapore,SGP,300220,"Vaccines, human use",8,Weight in kilograms,183,183,38070,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,704,Viet Nam,VNM,300220,"Vaccines, human use",8,Weight in kilograms,4548,4548,133617,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,711,So. African Customs Union,ZAF,300220,"Vaccines, human use",8,Weight in kilograms,5133,5133,810726,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,716,Zimbabwe,ZWE,300220,"Vaccines, human use",8,Weight in kilograms,169,169,41147,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,724,Spain,ESP,300220,"Vaccines, human use",8,Weight in kilograms,47,47,8286,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,724,Spain,ESP,300220,"Vaccines, human use",8,Weight in kilograms,8738,8738,2675710,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,736,Fmr Sudan,SDN,300220,"Vaccines, human use",8,Weight in kilograms,1509,1509,45411,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,752,Sweden,SWE,300220,"Vaccines, human use",8,Weight in kilograms,121,121,181041,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,760,Syria,SYR,300220,"Vaccines, human use",8,Weight in kilograms,90,90,2480,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,764,Thailand,THA,300220,"Vaccines, human use",8,Weight in kilograms,8586,8586,741335,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,768,Togo,TGO,300220,"Vaccines, human use",8,Weight in kilograms,307,307,25039,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,300220,"Vaccines, human use",8,Weight in kilograms,12,12,2510,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,784,United Arab Emirates,ARE,300220,"Vaccines, human use",8,Weight in kilograms,819,819,109177,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,300220,"Vaccines, human use",8,Weight in kilograms,3,3,24233,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,792,Turkey,TUR,300220,"Vaccines, human use",8,Weight in kilograms,4602,4602,374861,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,818,Egypt,EGY,300220,"Vaccines, human use",8,Weight in kilograms,3826,3826,130862,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,578,578,244834,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,1181,1181,590129,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,300220,"Vaccines, human use",8,Weight in kilograms,788,788,26942,0
+H0,1992,1992,1992,6,1,1,Import,757,Switzerland,CHE,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,1787,1787,397365,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,2192,2192,1211339,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,858,Uruguay,URY,300220,"Vaccines, human use",8,Weight in kilograms,21,21,10320,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,300220,"Vaccines, human use",8,Weight in kilograms,3231,3231,477906,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,887,Yemen,YEM,300220,"Vaccines, human use",8,Weight in kilograms,2121,2121,62045,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",8,Weight in kilograms,56,56,1924,0
+H0,1992,1992,1992,6,1,2,Export,757,Switzerland,CHE,894,Zambia,ZMB,300220,"Vaccines, human use",8,Weight in kilograms,283,283,31503,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,73087,73087,14248509,0
+H0,1992,1992,1992,6,1,2,Export,764,Thailand,THA,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,136,136,10246,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,36,Australia,AUS,300220,"Vaccines, human use",8,Weight in kilograms,733,733,136115,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,5661,5661,1826329,0
+H0,1992,1992,1992,6,1,2,Export,764,Thailand,THA,104,Myanmar,MMR,300220,"Vaccines, human use",8,Weight in kilograms,69,69,5146,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,1879,1879,435524,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,24580,24580,3601390,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,1803,1803,2358598,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,4418,4418,374197,0
+H0,1992,1992,1992,6,1,2,Export,764,Thailand,THA,392,Japan,JPN,300220,"Vaccines, human use",8,Weight in kilograms,2,2,905,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,410,Rep. of Korea,KOR,300220,"Vaccines, human use",8,Weight in kilograms,16874,16874,3356604,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,484,Mexico,MEX,300220,"Vaccines, human use",8,Weight in kilograms,660,660,30342,0
+H0,1992,1992,1992,6,1,2,Export,764,Thailand,THA,702,Singapore,SGP,300220,"Vaccines, human use",8,Weight in kilograms,7,7,3333,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,10308,10308,940931,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,20,20,14414,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,6090,6090,1143651,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,891,Serbia and Montenegro,SCG,300220,"Vaccines, human use",8,Weight in kilograms,58,58,30025,0
+H0,1992,1992,1992,6,1,1,Import,764,Thailand,THA,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,3,3,389,0
+H0,1992,1992,1992,6,1,2,Export,764,Thailand,THA,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,58,58,862,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,4574,4574,413888,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,36,Australia,AUS,300220,"Vaccines, human use",8,Weight in kilograms,267,267,18448,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,328,328,106263,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,345,345,27184,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,354,354,27292,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,7,7,715,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,26,26,8805,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,484,Mexico,MEX,300220,"Vaccines, human use",8,Weight in kilograms,294,294,78564,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,56,56,14664,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,16,16,9094,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,2878,2878,122518,0
+H0,1992,1992,1992,6,1,1,Import,780,Trinidad and Tobago,TTO,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,3,3,341,0
+H0,1992,1992,1992,6,1,1,Import,784,United Arab Emirates,ARE,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,5075,5075,434313,0
+H0,1992,1992,1992,6,1,1,Import,784,United Arab Emirates,ARE,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,710,710,251584,0
+H0,1992,1992,1992,6,1,1,Import,784,United Arab Emirates,ARE,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,56,56,4179,0
+H0,1992,1992,1992,6,1,1,Import,784,United Arab Emirates,ARE,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,391,391,45409,0
+H0,1992,1992,1992,6,1,1,Import,784,United Arab Emirates,ARE,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,226,226,75033,0
+H0,1992,1992,1992,6,1,1,Import,784,United Arab Emirates,ARE,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,30,30,4702,0
+H0,1992,1992,1992,6,1,1,Import,784,United Arab Emirates,ARE,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,3654,3654,52614,0
+H0,1992,1992,1992,6,1,1,Import,784,United Arab Emirates,ARE,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,7,7,699,0
+H0,1992,1992,1992,6,1,1,Import,784,United Arab Emirates,ARE,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,1,1,93,0
+H0,1992,1992,1992,6,1,1,Import,788,Tunisia,TUN,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,27057,27057,3088095,0
+H0,1992,1992,1992,6,1,1,Import,788,Tunisia,TUN,40,Austria,AUT,300220,"Vaccines, human use",8,Weight in kilograms,188,188,39614,0
+H0,1992,1992,1992,6,1,1,Import,788,Tunisia,TUN,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,1731,1731,348788,0
+H0,1992,1992,1992,6,1,1,Import,788,Tunisia,TUN,208,Denmark,DNK,300220,"Vaccines, human use",8,Weight in kilograms,2,2,9554,0
+H0,1992,1992,1992,6,1,1,Import,788,Tunisia,TUN,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,16151,16151,1845239,0
+H0,1992,1992,1992,6,1,1,Import,788,Tunisia,TUN,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,1382,1382,65298,0
+H0,1992,1992,1992,6,1,1,Import,788,Tunisia,TUN,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,6305,6305,716591,0
+H0,1992,1992,1992,6,1,1,Import,788,Tunisia,TUN,528,Netherlands,NLD,300220,"Vaccines, human use",8,Weight in kilograms,111,111,14108,0
+H0,1992,1992,1992,6,1,1,Import,788,Tunisia,TUN,724,Spain,ESP,300220,"Vaccines, human use",8,Weight in kilograms,12,12,1979,0
+H0,1992,1992,1992,6,1,1,Import,788,Tunisia,TUN,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,1174,1174,46606,0
+H0,1992,1992,1992,6,1,1,Import,788,Tunisia,TUN,899,"Areas, nes","",300220,"Vaccines, human use",8,Weight in kilograms,1,1,318,0
+H0,1992,1992,1992,6,1,1,Import,792,Turkey,TUR,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,44799,44799,4004597,0
+H0,1992,1992,1992,6,1,2,Export,792,Turkey,TUR,0,World,WLD,300220,"Vaccines, human use",8,Weight in kilograms,14,14,793,0
+H0,1992,1992,1992,6,1,1,Import,792,Turkey,TUR,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",8,Weight in kilograms,300,300,19158,0
+H0,1992,1992,1992,6,1,1,Import,792,Turkey,TUR,124,Canada,CAN,300220,"Vaccines, human use",8,Weight in kilograms,221,221,176624,0
+H0,1992,1992,1992,6,1,1,Import,792,Turkey,TUR,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,41358,41358,3438332,0
+H0,1992,1992,1992,6,1,2,Export,792,Turkey,TUR,251,France,FRA,300220,"Vaccines, human use",8,Weight in kilograms,14,14,793,0
+H0,1992,1992,1992,6,1,1,Import,792,Turkey,TUR,276,Germany,DEU,300220,"Vaccines, human use",8,Weight in kilograms,75,75,21132,0
+H0,1992,1992,1992,6,1,1,Import,792,Turkey,TUR,381,Italy,ITA,300220,"Vaccines, human use",8,Weight in kilograms,11,11,768,0
+H0,1992,1992,1992,6,1,1,Import,792,Turkey,TUR,757,Switzerland,CHE,300220,"Vaccines, human use",8,Weight in kilograms,1622,1622,209771,0
+H0,1992,1992,1992,6,1,1,Import,792,Turkey,TUR,826,United Kingdom,GBR,300220,"Vaccines, human use",8,Weight in kilograms,700,700,116829,0
+H0,1992,1992,1992,6,1,1,Import,792,Turkey,TUR,842,USA,USA,300220,"Vaccines, human use",8,Weight in kilograms,512,512,21983,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,183621555,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,103396866,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,32,Argentina,ARG,300220,"Vaccines, human use",1,No Quantity,0,0,297593,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,36,Australia,AUS,300220,"Vaccines, human use",1,No Quantity,0,0,3005962,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,40,Austria,AUT,300220,"Vaccines, human use",1,No Quantity,0,0,120945,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,44,Bahamas,BHS,300220,"Vaccines, human use",1,No Quantity,0,0,29184,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,48,Bahrain,BHR,300220,"Vaccines, human use",1,No Quantity,0,0,21449,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,156830172,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,13425,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,60,Bermuda,BMU,300220,"Vaccines, human use",1,No Quantity,0,0,21022,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,300220,"Vaccines, human use",1,No Quantity,0,0,8594,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,76,Brazil,BRA,300220,"Vaccines, human use",1,No Quantity,0,0,944654,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,108,Burundi,BDI,300220,"Vaccines, human use",1,No Quantity,0,0,17384,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,120,Cameroon,CMR,300220,"Vaccines, human use",1,No Quantity,0,0,1833031,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,124,Canada,CAN,300220,"Vaccines, human use",1,No Quantity,0,0,1260802,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,124,Canada,CAN,300220,"Vaccines, human use",1,No Quantity,0,0,31997720,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,136,Cayman Isds,CYM,300220,"Vaccines, human use",1,No Quantity,0,0,9728,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,152,Chile,CHL,300220,"Vaccines, human use",1,No Quantity,0,0,23014,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,156,China,CHN,300220,"Vaccines, human use",1,No Quantity,0,0,147486,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,156,China,CHN,300220,"Vaccines, human use",1,No Quantity,0,0,3000,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,170,Colombia,COL,300220,"Vaccines, human use",1,No Quantity,0,0,98177,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,188,Costa Rica,CRI,300220,"Vaccines, human use",1,No Quantity,0,0,2760,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,200,Czechoslovakia,CSK,300220,"Vaccines, human use",1,No Quantity,0,0,15000,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,208,Denmark,DNK,300220,"Vaccines, human use",1,No Quantity,0,0,1281487,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,208,Denmark,DNK,300220,"Vaccines, human use",1,No Quantity,0,0,838426,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,214,Dominican Rep.,DOM,300220,"Vaccines, human use",1,No Quantity,0,0,23912,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,218,Ecuador,ECU,300220,"Vaccines, human use",1,No Quantity,0,0,44841,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,246,Finland,FIN,300220,"Vaccines, human use",1,No Quantity,0,0,1333199,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,10435740,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,251,France,FRA,300220,"Vaccines, human use",1,No Quantity,0,0,916883,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,270,Gambia,GMB,300220,"Vaccines, human use",1,No Quantity,0,0,1022840,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,276,Germany,DEU,300220,"Vaccines, human use",1,No Quantity,0,0,2538,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,276,Germany,DEU,300220,"Vaccines, human use",1,No Quantity,0,0,12002440,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,288,Ghana,GHA,300220,"Vaccines, human use",1,No Quantity,0,0,13154,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,300,Greece,GRC,300220,"Vaccines, human use",1,No Quantity,0,0,13164,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,328,Guyana,GUY,300220,"Vaccines, human use",1,No Quantity,0,0,4500,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,340,Honduras,HND,300220,"Vaccines, human use",1,No Quantity,0,0,24048,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,344,"China, Hong Kong SAR",HKG,300220,"Vaccines, human use",1,No Quantity,0,0,182641,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,352,Iceland,ISL,300220,"Vaccines, human use",1,No Quantity,0,0,170516,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,360,Indonesia,IDN,300220,"Vaccines, human use",1,No Quantity,0,0,268767,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,372,Ireland,IRL,300220,"Vaccines, human use",1,No Quantity,0,0,74942,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,376,Israel,ISR,300220,"Vaccines, human use",1,No Quantity,0,0,363654,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,381,Italy,ITA,300220,"Vaccines, human use",1,No Quantity,0,0,42147,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,381,Italy,ITA,300220,"Vaccines, human use",1,No Quantity,0,0,9386684,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,388,Jamaica,JAM,300220,"Vaccines, human use",1,No Quantity,0,0,5835,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,392,Japan,JPN,300220,"Vaccines, human use",1,No Quantity,0,0,4688182,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,392,Japan,JPN,300220,"Vaccines, human use",1,No Quantity,0,0,5136044,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,410,Rep. of Korea,KOR,300220,"Vaccines, human use",1,No Quantity,0,0,41186,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,414,Kuwait,KWT,300220,"Vaccines, human use",1,No Quantity,0,0,3208,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,458,Malaysia,MYS,300220,"Vaccines, human use",1,No Quantity,0,0,28548,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,484,Mexico,MEX,300220,"Vaccines, human use",1,No Quantity,0,0,242361,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,490,"Other Asia, nes","",300220,"Vaccines, human use",1,No Quantity,0,0,5697843,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,528,Netherlands,NLD,300220,"Vaccines, human use",1,No Quantity,0,0,3975,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,528,Netherlands,NLD,300220,"Vaccines, human use",1,No Quantity,0,0,15899738,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,554,New Zealand,NZL,300220,"Vaccines, human use",1,No Quantity,0,0,13512,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,579,Norway,NOR,300220,"Vaccines, human use",1,No Quantity,0,0,16264,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,604,Peru,PER,300220,"Vaccines, human use",1,No Quantity,0,0,61225,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,620,Portugal,PRT,300220,"Vaccines, human use",1,No Quantity,0,0,6017,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,634,Qatar,QAT,300220,"Vaccines, human use",1,No Quantity,0,0,23833,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,643,Russian Federation,RUS,300220,"Vaccines, human use",1,No Quantity,0,0,3854,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,682,Saudi Arabia,SAU,300220,"Vaccines, human use",1,No Quantity,0,0,320073,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,699,India,IND,300220,"Vaccines, human use",1,No Quantity,0,0,4142,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,702,Singapore,SGP,300220,"Vaccines, human use",1,No Quantity,0,0,13247,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,711,So. African Customs Union,ZAF,300220,"Vaccines, human use",1,No Quantity,0,0,198751,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,724,Spain,ESP,300220,"Vaccines, human use",1,No Quantity,0,0,3099301,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,752,Sweden,SWE,300220,"Vaccines, human use",1,No Quantity,0,0,485611,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,752,Sweden,SWE,300220,"Vaccines, human use",1,No Quantity,0,0,2517976,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,757,Switzerland,CHE,300220,"Vaccines, human use",1,No Quantity,0,0,1228314,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,757,Switzerland,CHE,300220,"Vaccines, human use",1,No Quantity,0,0,347437,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,764,Thailand,THA,300220,"Vaccines, human use",1,No Quantity,0,0,20059,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,764,Thailand,THA,300220,"Vaccines, human use",1,No Quantity,0,0,180104,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,780,Trinidad and Tobago,TTO,300220,"Vaccines, human use",1,No Quantity,0,0,29520,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,818,Egypt,EGY,300220,"Vaccines, human use",1,No Quantity,0,0,43606,0
+H0,1992,1992,1992,6,1,1,Import,842,USA,USA,826,United Kingdom,GBR,300220,"Vaccines, human use",1,No Quantity,0,0,7120100,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,826,United Kingdom,GBR,300220,"Vaccines, human use",1,No Quantity,0,0,4159091,0
+H0,1992,1992,1992,6,1,2,Export,842,USA,USA,862,Venezuela,VEN,300220,"Vaccines, human use",1,No Quantity,0,0,231839,0
+H0,1992,1992,1992,6,1,1,Import,891,Serbia and Montenegro,SCG,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,500000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,300220,"Vaccines, human use",1,No Quantity,0,0,1312000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,24,Angola,AGO,300220,"Vaccines, human use",1,No Quantity,0,0,24000,0
+H0,1992,1992,1992,6,1,1,Import,891,Serbia and Montenegro,SCG,40,Austria,AUT,300220,"Vaccines, human use",1,No Quantity,0,0,53000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,44,Bahamas,BHS,300220,"Vaccines, human use",1,No Quantity,0,0,1000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,50,Bangladesh,BGD,300220,"Vaccines, human use",1,No Quantity,0,0,150000,0
+H0,1992,1992,1992,6,1,1,Import,891,Serbia and Montenegro,SCG,58,Belgium-Luxembourg,BEL,300220,"Vaccines, human use",1,No Quantity,0,0,137000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,68,Bolivia (Plurinational State of),BOL,300220,"Vaccines, human use",1,No Quantity,0,0,34000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,104,Myanmar,MMR,300220,"Vaccines, human use",1,No Quantity,0,0,16000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,144,Sri Lanka,LKA,300220,"Vaccines, human use",1,No Quantity,0,0,20000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,156,China,CHN,300220,"Vaccines, human use",1,No Quantity,0,0,112000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,178,Congo,COG,300220,"Vaccines, human use",1,No Quantity,0,0,5000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,204,Benin,BEN,300220,"Vaccines, human use",1,No Quantity,0,0,20000,0
+H0,1992,1992,1992,6,1,1,Import,891,Serbia and Montenegro,SCG,208,Denmark,DNK,300220,"Vaccines, human use",1,No Quantity,0,0,217000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,208,Denmark,DNK,300220,"Vaccines, human use",1,No Quantity,0,0,6000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,214,Dominican Rep.,DOM,300220,"Vaccines, human use",1,No Quantity,0,0,27000,0
+H0,1992,1992,1992,6,1,1,Import,891,Serbia and Montenegro,SCG,276,Germany,DEU,300220,"Vaccines, human use",1,No Quantity,0,0,56000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,288,Ghana,GHA,300220,"Vaccines, human use",1,No Quantity,0,0,8000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,332,Haiti,HTI,300220,"Vaccines, human use",1,No Quantity,0,0,4000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,360,Indonesia,IDN,300220,"Vaccines, human use",1,No Quantity,0,0,37000,0
+H0,1992,1992,1992,6,1,1,Import,891,Serbia and Montenegro,SCG,381,Italy,ITA,300220,"Vaccines, human use",1,No Quantity,0,0,19000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,410,Rep. of Korea,KOR,300220,"Vaccines, human use",1,No Quantity,0,0,19000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,504,Morocco,MAR,300220,"Vaccines, human use",1,No Quantity,0,0,53000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,566,Nigeria,NGA,300220,"Vaccines, human use",1,No Quantity,0,0,139000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,586,Pakistan,PAK,300220,"Vaccines, human use",1,No Quantity,0,0,12000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,591,Panama,PAN,300220,"Vaccines, human use",1,No Quantity,0,0,16000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,608,Philippines,PHL,300220,"Vaccines, human use",1,No Quantity,0,0,48000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,699,India,IND,300220,"Vaccines, human use",1,No Quantity,0,0,159000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,704,Viet Nam,VNM,300220,"Vaccines, human use",1,No Quantity,0,0,79000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,736,Fmr Sudan,SDN,300220,"Vaccines, human use",1,No Quantity,0,0,40000,0
+H0,1992,1992,1992,6,1,1,Import,891,Serbia and Montenegro,SCG,757,Switzerland,CHE,300220,"Vaccines, human use",1,No Quantity,0,0,18000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,792,Turkey,TUR,300220,"Vaccines, human use",1,No Quantity,0,0,224000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,800,Uganda,UGA,300220,"Vaccines, human use",1,No Quantity,0,0,28000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,858,Uruguay,URY,300220,"Vaccines, human use",1,No Quantity,0,0,11000,0
+H0,1992,1992,1992,6,1,2,Export,891,Serbia and Montenegro,SCG,887,Yemen,YEM,300220,"Vaccines, human use",1,No Quantity,0,0,20000,0
